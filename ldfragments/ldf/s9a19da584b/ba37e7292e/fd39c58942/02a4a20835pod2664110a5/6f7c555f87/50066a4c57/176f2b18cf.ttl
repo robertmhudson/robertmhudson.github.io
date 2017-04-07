@@ -1,0 +1,30 @@
+<http://data.carnegiehall.org/instruments/1258> <http://www.w3.org/2000/01/rdf-schema#label> "bass ngoni" .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://foo.org/>.
+
+:a a void:Dataset, hydra:Collection;
+    void:subset <http://robertmhudson.github.io/ldstatic/ldfs9a19da584b/ba37e7292e/fd39c58942/02a4a20835pod2664110a5/6f7c555f87/50066a4c57/176f2b18cf.ttl>;
+    void:uriLookupEndpoint "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:search _:triplePattern.
+_:triplePattern hydra:template "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:mapping _:subject, _:predicate, _:object.
+_:subject hydra:variable "s";
+    hydra:property rdf:subject.
+_:predicate hydra:variable "p";
+    hydra:property rdf:predicate.
+_:object hydra:variable "o";
+    hydra:property rdf:object
+    .
+
+<http://robertmhudson.github.io/ldstatic/ldfs9a19da584b/ba37e7292e/fd39c58942/02a4a20835pod2664110a5/6f7c555f87/50066a4c57/176f2b18cf.ttl> 
+    a hydra:Collection, hydra:PagedCollection;
+    dcterms:source :a;
+    hydra:totalItems "1"^^xsd:integer;
+    void:triples "1"^^xsd:integer;
+    hydra:itemsPerPage "1"^^xsd:integer
+    .

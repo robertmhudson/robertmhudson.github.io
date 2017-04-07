@@ -1,0 +1,898 @@
+<http://data.carnegiehall.org/instruments/668> <http://www.w3.org/2000/01/rdf-schema#label> "quintet" .
+<http://data.carnegiehall.org/instruments/1198> <http://www.w3.org/2000/01/rdf-schema#label> "glass harmonica" .
+<http://data.carnegiehall.org/instruments/1104> <http://www.w3.org/2000/01/rdf-schema#label> "wind quartet" .
+<http://data.carnegiehall.org/instruments/879> <http://www.w3.org/2000/01/rdf-schema#label> "chimes" .
+<http://data.carnegiehall.org/instruments/367> <http://www.w3.org/2000/01/rdf-schema#label> "tambura" .
+<http://data.carnegiehall.org/instruments/224> <http://www.w3.org/2000/01/rdf-schema#label> "tárogató" .
+<http://data.carnegiehall.org/instruments/1185> <http://www.w3.org/2000/01/rdf-schema#label> "tapan" .
+<http://data.carnegiehall.org/instruments/1184> <http://www.w3.org/2000/01/rdf-schema#label> "tchatchara" .
+<http://data.carnegiehall.org/instruments/1062> <http://www.w3.org/2000/01/rdf-schema#label> "morin khuur" .
+<http://data.carnegiehall.org/instruments/1034> <http://www.w3.org/2000/01/rdf-schema#label> "electronics" .
+<http://data.carnegiehall.org/instruments/42> <http://www.w3.org/2000/01/rdf-schema#label> "contrabassoon" .
+<http://data.carnegiehall.org/instruments/240> <http://www.w3.org/2000/01/rdf-schema#label> "theremin" .
+<http://data.carnegiehall.org/instruments/1407> <http://www.w3.org/2000/01/rdf-schema#label> "gospel music band" .
+<http://data.carnegiehall.org/instruments/118> <http://www.w3.org/2000/01/rdf-schema#label> "bamboo flute" .
+<http://data.carnegiehall.org/instruments/121> <http://www.w3.org/2000/01/rdf-schema#label> "band leader" .
+<http://data.carnegiehall.org/instruments/502> <http://www.w3.org/2000/01/rdf-schema#label> "ichigenkin" .
+<http://data.carnegiehall.org/instruments/104> <http://www.w3.org/2000/01/rdf-schema#label> "snare drum" .
+<http://data.carnegiehall.org/instruments/1186> <http://www.w3.org/2000/01/rdf-schema#label> "saxello" .
+<http://data.carnegiehall.org/instruments/268> <http://www.w3.org/2000/01/rdf-schema#label> "hula dancer" .
+<http://data.carnegiehall.org/instruments/374> <http://www.w3.org/2000/01/rdf-schema#label> "hosho" .
+<http://data.carnegiehall.org/instruments/1406> <http://www.w3.org/2000/01/rdf-schema#label> "konghou" .
+<http://data.carnegiehall.org/instruments/1373> <http://www.w3.org/2000/01/rdf-schema#label> "kobyz" .
+<http://data.carnegiehall.org/instruments/700> <http://www.w3.org/2000/01/rdf-schema#label> "hypnotist" .
+<http://data.carnegiehall.org/instruments/1070> <http://www.w3.org/2000/01/rdf-schema#label> "kithara" .
+<http://data.carnegiehall.org/instruments/299> <http://www.w3.org/2000/01/rdf-schema#label> "countertenor" .
+<http://data.carnegiehall.org/instruments/887> <http://www.w3.org/2000/01/rdf-schema#label> "psaltery" .
+<http://data.carnegiehall.org/instruments/292> <http://www.w3.org/2000/01/rdf-schema#label> "alto sackbut" .
+<http://data.carnegiehall.org/instruments/301> <http://www.w3.org/2000/01/rdf-schema#label> "haegeum" .
+<http://data.carnegiehall.org/instruments/1247> <http://www.w3.org/2000/01/rdf-schema#label> "jarana" .
+<http://data.carnegiehall.org/instruments/62> <http://www.w3.org/2000/01/rdf-schema#label> "tenor" .
+<http://data.carnegiehall.org/instruments/907> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese cymbals" .
+<http://data.carnegiehall.org/instruments/181> <http://www.w3.org/2000/01/rdf-schema#label> "dizi" .
+<http://data.carnegiehall.org/instruments/552> <http://www.w3.org/2000/01/rdf-schema#label> "contrabass clarinet" .
+<http://data.carnegiehall.org/instruments/939> <http://www.w3.org/2000/01/rdf-schema#label> "electric 6-string bass" .
+<http://data.carnegiehall.org/instruments/1344> <http://www.w3.org/2000/01/rdf-schema#label> "bouzouki guitar" .
+<http://data.carnegiehall.org/instruments/1258> <http://www.w3.org/2000/01/rdf-schema#label> "bass ngoni" .
+<http://data.carnegiehall.org/instruments/1334> <http://www.w3.org/2000/01/rdf-schema#label> "capoeira" .
+<http://data.carnegiehall.org/instruments/618> <http://www.w3.org/2000/01/rdf-schema#label> "Lakota Sioux courting flute" .
+<http://data.carnegiehall.org/instruments/1142> <http://www.w3.org/2000/01/rdf-schema#label> "sopranino recorder" .
+<http://data.carnegiehall.org/instruments/68> <http://www.w3.org/2000/01/rdf-schema#label> "cantor" .
+<http://data.carnegiehall.org/instruments/1276> <http://www.w3.org/2000/01/rdf-schema#label> "septet" .
+<http://data.carnegiehall.org/instruments/1212> <http://www.w3.org/2000/01/rdf-schema#label> "box" .
+<http://data.carnegiehall.org/instruments/335> <http://www.w3.org/2000/01/rdf-schema#label> "taus" .
+<http://data.carnegiehall.org/instruments/978> <http://www.w3.org/2000/01/rdf-schema#label> "baritone horn" .
+<http://data.carnegiehall.org/instruments/30> <http://www.w3.org/2000/01/rdf-schema#label> "ukulele" .
+<http://data.carnegiehall.org/instruments/1195> <http://www.w3.org/2000/01/rdf-schema#label> "fx" .
+<http://data.carnegiehall.org/instruments/372> <http://www.w3.org/2000/01/rdf-schema#label> "double bass" .
+<http://data.carnegiehall.org/instruments/445> <http://www.w3.org/2000/01/rdf-schema#label> "vielle" .
+<http://data.carnegiehall.org/instruments/76> <http://www.w3.org/2000/01/rdf-schema#label> "dobro" .
+<http://data.carnegiehall.org/instruments/167> <http://www.w3.org/2000/01/rdf-schema#label> "maracas" .
+<http://data.carnegiehall.org/instruments/626> <http://www.w3.org/2000/01/rdf-schema#label> "archlute" .
+<http://data.carnegiehall.org/instruments/1442> <http://www.w3.org/2000/01/rdf-schema#label> "añafil" .
+<http://data.carnegiehall.org/instruments/111> <http://www.w3.org/2000/01/rdf-schema#label> "panpipes" .
+<http://data.carnegiehall.org/instruments/1384> <http://www.w3.org/2000/01/rdf-schema#label> "tammorra" .
+<http://data.carnegiehall.org/instruments/926> <http://www.w3.org/2000/01/rdf-schema#label> "yokobue" .
+<http://data.carnegiehall.org/instruments/1342> <http://www.w3.org/2000/01/rdf-schema#label> "shöör" .
+<http://data.carnegiehall.org/instruments/180> <http://www.w3.org/2000/01/rdf-schema#label> "sanxian" .
+<http://data.carnegiehall.org/instruments/349> <http://www.w3.org/2000/01/rdf-schema#label> "vocalist" .
+<http://data.carnegiehall.org/instruments/640> <http://www.w3.org/2000/01/rdf-schema#label> "flexatone" .
+<http://data.carnegiehall.org/instruments/956> <http://www.w3.org/2000/01/rdf-schema#label> "bombard" .
+<http://data.carnegiehall.org/instruments/1353> <http://www.w3.org/2000/01/rdf-schema#label> "stick fighters" .
+<http://data.carnegiehall.org/instruments/1369> <http://www.w3.org/2000/01/rdf-schema#label> "microtonal keyboard" .
+<http://data.carnegiehall.org/instruments/1421> <http://www.w3.org/2000/01/rdf-schema#label> "debate team" .
+<http://data.carnegiehall.org/instruments/706> <http://www.w3.org/2000/01/rdf-schema#label> "tres" .
+<http://data.carnegiehall.org/instruments/1154> <http://www.w3.org/2000/01/rdf-schema#label> "gaita" .
+<http://data.carnegiehall.org/instruments/1205> <http://www.w3.org/2000/01/rdf-schema#label> "pku" .
+<http://data.carnegiehall.org/instruments/41> <http://www.w3.org/2000/01/rdf-schema#label> "alto trombone" .
+<http://data.carnegiehall.org/instruments/1333> <http://www.w3.org/2000/01/rdf-schema#label> "dilruba" .
+<http://data.carnegiehall.org/instruments/511> <http://www.w3.org/2000/01/rdf-schema#label> "heckelphone" .
+<http://data.carnegiehall.org/instruments/1239> <http://www.w3.org/2000/01/rdf-schema#label> "toy glockenspiel" .
+<http://data.carnegiehall.org/instruments/852> <http://www.w3.org/2000/01/rdf-schema#label> "xiao" .
+<http://data.carnegiehall.org/instruments/1131> <http://www.w3.org/2000/01/rdf-schema#label> "b-flat cornet" .
+<http://data.carnegiehall.org/instruments/1293> <http://www.w3.org/2000/01/rdf-schema#label> "dan bau" .
+<http://data.carnegiehall.org/instruments/294> <http://www.w3.org/2000/01/rdf-schema#label> "baroque oboe" .
+<http://data.carnegiehall.org/instruments/80> <http://www.w3.org/2000/01/rdf-schema#label> "shoji" .
+<http://data.carnegiehall.org/instruments/242> <http://www.w3.org/2000/01/rdf-schema#label> "bass trumpet" .
+<http://data.carnegiehall.org/instruments/1208> <http://www.w3.org/2000/01/rdf-schema#label> "zhongruan" .
+<http://data.carnegiehall.org/instruments/1101> <http://www.w3.org/2000/01/rdf-schema#label> "darabukka" .
+<http://data.carnegiehall.org/instruments/112> <http://www.w3.org/2000/01/rdf-schema#label> "natural norn" .
+<http://data.carnegiehall.org/instruments/798> <http://www.w3.org/2000/01/rdf-schema#label> "boy solo unspecified" .
+<http://data.carnegiehall.org/instruments/405> <http://www.w3.org/2000/01/rdf-schema#label> "lira" .
+<http://data.carnegiehall.org/instruments/1122> <http://www.w3.org/2000/01/rdf-schema#label> "monologist" .
+<http://data.carnegiehall.org/instruments/929> <http://www.w3.org/2000/01/rdf-schema#label> "octet" .
+<http://data.carnegiehall.org/instruments/71> <http://www.w3.org/2000/01/rdf-schema#label> "bagpipes" .
+<http://data.carnegiehall.org/instruments/14> <http://www.w3.org/2000/01/rdf-schema#label> "antique cymbals" .
+<http://data.carnegiehall.org/instruments/620> <http://www.w3.org/2000/01/rdf-schema#label> "hirtenschalmei" .
+<http://data.carnegiehall.org/instruments/743> <http://www.w3.org/2000/01/rdf-schema#label> "shamisen" .
+<http://data.carnegiehall.org/instruments/1393> <http://www.w3.org/2000/01/rdf-schema#label> "zerbaghali" .
+<http://data.carnegiehall.org/instruments/463> <http://www.w3.org/2000/01/rdf-schema#label> "trumpet" .
+<http://data.carnegiehall.org/instruments/584> <http://www.w3.org/2000/01/rdf-schema#label> "rhaita" .
+<http://data.carnegiehall.org/instruments/742> <http://www.w3.org/2000/01/rdf-schema#label> "tanso" .
+<http://data.carnegiehall.org/instruments/851> <http://www.w3.org/2000/01/rdf-schema#label> "changgo" .
+<http://data.carnegiehall.org/instruments/483> <http://www.w3.org/2000/01/rdf-schema#label> "sarrusophone" .
+<http://data.carnegiehall.org/instruments/1279> <http://www.w3.org/2000/01/rdf-schema#label> "banbou" .
+<http://data.carnegiehall.org/instruments/339> <http://www.w3.org/2000/01/rdf-schema#label> "unspecified voice" .
+<http://data.carnegiehall.org/instruments/1377> <http://www.w3.org/2000/01/rdf-schema#label> "umhube" .
+<http://data.carnegiehall.org/instruments/1132> <http://www.w3.org/2000/01/rdf-schema#label> "b-flat bass horn" .
+<http://data.carnegiehall.org/instruments/1092> <http://www.w3.org/2000/01/rdf-schema#label> "claviola" .
+<http://data.carnegiehall.org/instruments/1295> <http://www.w3.org/2000/01/rdf-schema#label> "derbakki" .
+<http://data.carnegiehall.org/instruments/255> <http://www.w3.org/2000/01/rdf-schema#label> "chamber ensemble" .
+<http://data.carnegiehall.org/instruments/1337> <http://www.w3.org/2000/01/rdf-schema#label> "doshpuluur" .
+<http://data.carnegiehall.org/instruments/1136> <http://www.w3.org/2000/01/rdf-schema#label> "guzheng" .
+<http://data.carnegiehall.org/instruments/558> <http://www.w3.org/2000/01/rdf-schema#label> "timbales" .
+<http://data.carnegiehall.org/instruments/1232> <http://www.w3.org/2000/01/rdf-schema#label> "timple" .
+<http://data.carnegiehall.org/instruments/1127> <http://www.w3.org/2000/01/rdf-schema#label> "cabasa" .
+<http://data.carnegiehall.org/instruments/73> <http://www.w3.org/2000/01/rdf-schema#label> "dancer" .
+<http://data.carnegiehall.org/instruments/1361> <http://www.w3.org/2000/01/rdf-schema#label> "cumbus" .
+<http://data.carnegiehall.org/instruments/1147> <http://www.w3.org/2000/01/rdf-schema#label> "garmon" .
+<http://data.carnegiehall.org/instruments/333> <http://www.w3.org/2000/01/rdf-schema#label> "accordion band" .
+<http://data.carnegiehall.org/instruments/1148> <http://www.w3.org/2000/01/rdf-schema#label> "sopilka" .
+<http://data.carnegiehall.org/instruments/1115> <http://www.w3.org/2000/01/rdf-schema#label> "quadrachord" .
+<http://data.carnegiehall.org/instruments/1301> <http://www.w3.org/2000/01/rdf-schema#label> "gardon" .
+<http://data.carnegiehall.org/instruments/760> <http://www.w3.org/2000/01/rdf-schema#label> "cymbals" .
+<http://data.carnegiehall.org/instruments/85> <http://www.w3.org/2000/01/rdf-schema#label> "bass saxophone" .
+<http://data.carnegiehall.org/instruments/1086> <http://www.w3.org/2000/01/rdf-schema#label> "alphorn" .
+<http://data.carnegiehall.org/instruments/43> <http://www.w3.org/2000/01/rdf-schema#label> "electric violin" .
+<http://data.carnegiehall.org/instruments/1098> <http://www.w3.org/2000/01/rdf-schema#label> "adungu" .
+<http://data.carnegiehall.org/instruments/1216> <http://www.w3.org/2000/01/rdf-schema#label> "whirling dervish" .
+<http://data.carnegiehall.org/instruments/1409> <http://www.w3.org/2000/01/rdf-schema#label> "guira" .
+<http://data.carnegiehall.org/instruments/578> <http://www.w3.org/2000/01/rdf-schema#label> "tsuzumi" .
+<http://data.carnegiehall.org/instruments/800> <http://www.w3.org/2000/01/rdf-schema#label> "tenor sackbut" .
+<http://data.carnegiehall.org/instruments/594> <http://www.w3.org/2000/01/rdf-schema#label> "bottles" .
+<http://data.carnegiehall.org/instruments/439> <http://www.w3.org/2000/01/rdf-schema#label> "conductor" .
+<http://data.carnegiehall.org/instruments/969> <http://www.w3.org/2000/01/rdf-schema#label> "bass" .
+<http://data.carnegiehall.org/instruments/222> <http://www.w3.org/2000/01/rdf-schema#label> "shakuhachi" .
+<http://data.carnegiehall.org/instruments/1431> <http://www.w3.org/2000/01/rdf-schema#label> "guitarra morisca" .
+<http://data.carnegiehall.org/instruments/1394> <http://www.w3.org/2000/01/rdf-schema#label> "tzouras" .
+<http://data.carnegiehall.org/instruments/658> <http://www.w3.org/2000/01/rdf-schema#label> "tenor banjo" .
+<http://data.carnegiehall.org/instruments/540> <http://www.w3.org/2000/01/rdf-schema#label> "klezmer band" .
+<http://data.carnegiehall.org/instruments/1284> <http://www.w3.org/2000/01/rdf-schema#label> "lawnmower" .
+<http://data.carnegiehall.org/instruments/671> <http://www.w3.org/2000/01/rdf-schema#label> "pardessus de viole" .
+<http://data.carnegiehall.org/instruments/707> <http://www.w3.org/2000/01/rdf-schema#label> "sampler" .
+<http://data.carnegiehall.org/instruments/365> <http://www.w3.org/2000/01/rdf-schema#label> "fife" .
+<http://data.carnegiehall.org/instruments/1252> <http://www.w3.org/2000/01/rdf-schema#label> "pangeia instrumentos" .
+<http://data.carnegiehall.org/instruments/1224> <http://www.w3.org/2000/01/rdf-schema#label> "keman" .
+<http://data.carnegiehall.org/instruments/848> <http://www.w3.org/2000/01/rdf-schema#label> "timbre piano" .
+<http://data.carnegiehall.org/instruments/1126> <http://www.w3.org/2000/01/rdf-schema#label> "lamellophone" .
+<http://data.carnegiehall.org/instruments/664> <http://www.w3.org/2000/01/rdf-schema#label> "concert band" .
+<http://data.carnegiehall.org/instruments/674> <http://www.w3.org/2000/01/rdf-schema#label> "oud" .
+<http://data.carnegiehall.org/instruments/677> <http://www.w3.org/2000/01/rdf-schema#label> "cantaor" .
+<http://data.carnegiehall.org/instruments/1241> <http://www.w3.org/2000/01/rdf-schema#label> "famiola" .
+<http://data.carnegiehall.org/instruments/1417> <http://www.w3.org/2000/01/rdf-schema#label> "new wave band" .
+<http://data.carnegiehall.org/instruments/1226> <http://www.w3.org/2000/01/rdf-schema#label> "kaval" .
+<http://data.carnegiehall.org/instruments/893> <http://www.w3.org/2000/01/rdf-schema#label> "bicycle pump" .
+<http://data.carnegiehall.org/instruments/694> <http://www.w3.org/2000/01/rdf-schema#label> "koto" .
+<http://data.carnegiehall.org/instruments/327> <http://www.w3.org/2000/01/rdf-schema#label> "tabla" .
+<http://data.carnegiehall.org/instruments/228> <http://www.w3.org/2000/01/rdf-schema#label> "baroque flute" .
+<http://data.carnegiehall.org/instruments/235> <http://www.w3.org/2000/01/rdf-schema#label> "fiddle" .
+<http://data.carnegiehall.org/instruments/652> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese blocks" .
+<http://data.carnegiehall.org/instruments/16> <http://www.w3.org/2000/01/rdf-schema#label> "cannon" .
+<http://data.carnegiehall.org/instruments/1150> <http://www.w3.org/2000/01/rdf-schema#label> "rada drums" .
+<http://data.carnegiehall.org/instruments/1244> <http://www.w3.org/2000/01/rdf-schema#label> "kandyan drum" .
+<http://data.carnegiehall.org/instruments/1146> <http://www.w3.org/2000/01/rdf-schema#label> "phonoharp" .
+<http://data.carnegiehall.org/instruments/1356> <http://www.w3.org/2000/01/rdf-schema#label> "calypso band" .
+<http://data.carnegiehall.org/instruments/154> <http://www.w3.org/2000/01/rdf-schema#label> "oboe d'amore" .
+<http://data.carnegiehall.org/instruments/363> <http://www.w3.org/2000/01/rdf-schema#label> "clavichord" .
+<http://data.carnegiehall.org/instruments/564> <http://www.w3.org/2000/01/rdf-schema#label> "crotales" .
+<http://data.carnegiehall.org/instruments/676> <http://www.w3.org/2000/01/rdf-schema#label> "viola" .
+<http://data.carnegiehall.org/instruments/129> <http://www.w3.org/2000/01/rdf-schema#label> "clarinet" .
+<http://data.carnegiehall.org/instruments/1072> <http://www.w3.org/2000/01/rdf-schema#label> "virginal" .
+<http://data.carnegiehall.org/instruments/1305> <http://www.w3.org/2000/01/rdf-schema#label> "daxophone" .
+<http://data.carnegiehall.org/instruments/890> <http://www.w3.org/2000/01/rdf-schema#label> "baroque trumpet" .
+<http://data.carnegiehall.org/instruments/831> <http://www.w3.org/2000/01/rdf-schema#label> "triangle" .
+<http://data.carnegiehall.org/instruments/625> <http://www.w3.org/2000/01/rdf-schema#label> "janggo" .
+<http://data.carnegiehall.org/instruments/850> <http://www.w3.org/2000/01/rdf-schema#label> "drums" .
+<http://data.carnegiehall.org/instruments/29> <http://www.w3.org/2000/01/rdf-schema#label> "skor thom" .
+<http://data.carnegiehall.org/instruments/401> <http://www.w3.org/2000/01/rdf-schema#label> "womens chorus" .
+<http://data.carnegiehall.org/instruments/142> <http://www.w3.org/2000/01/rdf-schema#label> "lyre" .
+<http://data.carnegiehall.org/instruments/1141> <http://www.w3.org/2000/01/rdf-schema#label> "Turkish clarinet" .
+<http://data.carnegiehall.org/instruments/234> <http://www.w3.org/2000/01/rdf-schema#label> "rondador" .
+<http://data.carnegiehall.org/instruments/81> <http://www.w3.org/2000/01/rdf-schema#label> "ney" .
+<http://data.carnegiehall.org/instruments/173> <http://www.w3.org/2000/01/rdf-schema#label> "bodhran" .
+<http://data.carnegiehall.org/instruments/1404> <http://www.w3.org/2000/01/rdf-schema#label> "tarhu" .
+<http://data.carnegiehall.org/instruments/1124> <http://www.w3.org/2000/01/rdf-schema#label> "palmas" .
+<http://data.carnegiehall.org/instruments/461> <http://www.w3.org/2000/01/rdf-schema#label> "serpent" .
+<http://data.carnegiehall.org/instruments/1067> <http://www.w3.org/2000/01/rdf-schema#label> "adapted guitar" .
+<http://data.carnegiehall.org/instruments/816> <http://www.w3.org/2000/01/rdf-schema#label> "tiompán" .
+<http://data.carnegiehall.org/instruments/731> <http://www.w3.org/2000/01/rdf-schema#label> "thin suspended cymbal" .
+<http://data.carnegiehall.org/instruments/1308> <http://www.w3.org/2000/01/rdf-schema#label> "foot stomper" .
+<http://data.carnegiehall.org/instruments/1318> <http://www.w3.org/2000/01/rdf-schema#label> "gourd tree" .
+<http://data.carnegiehall.org/instruments/1139> <http://www.w3.org/2000/01/rdf-schema#label> "guitarron" .
+<http://data.carnegiehall.org/instruments/754> <http://www.w3.org/2000/01/rdf-schema#label> "shepherd's pipe" .
+<http://data.carnegiehall.org/instruments/604> <http://www.w3.org/2000/01/rdf-schema#label> "brass quintet" .
+<http://data.carnegiehall.org/instruments/393> <http://www.w3.org/2000/01/rdf-schema#label> "spurs" .
+<http://data.carnegiehall.org/instruments/813> <http://www.w3.org/2000/01/rdf-schema#label> "kokyu" .
+<http://data.carnegiehall.org/instruments/1096> <http://www.w3.org/2000/01/rdf-schema#label> "akogo" .
+<http://data.carnegiehall.org/instruments/1323> <http://www.w3.org/2000/01/rdf-schema#label> "sabar" .
+<http://data.carnegiehall.org/instruments/894> <http://www.w3.org/2000/01/rdf-schema#label> "flugelhorn" .
+<http://data.carnegiehall.org/instruments/927> <http://www.w3.org/2000/01/rdf-schema#label> "tar" .
+<http://data.carnegiehall.org/instruments/269> <http://www.w3.org/2000/01/rdf-schema#label> "mijwiz" .
+<http://data.carnegiehall.org/instruments/32> <http://www.w3.org/2000/01/rdf-schema#label> "dholak" .
+<http://data.carnegiehall.org/instruments/1306> <http://www.w3.org/2000/01/rdf-schema#label> "african harp" .
+<http://data.carnegiehall.org/instruments/1250> <http://www.w3.org/2000/01/rdf-schema#label> "fue" .
+<http://data.carnegiehall.org/instruments/699> <http://www.w3.org/2000/01/rdf-schema#label> "tiple doliente" .
+<http://data.carnegiehall.org/instruments/1089> <http://www.w3.org/2000/01/rdf-schema#label> "jinghu" .
+<http://data.carnegiehall.org/instruments/701> <http://www.w3.org/2000/01/rdf-schema#label> "shinobue" .
+<http://data.carnegiehall.org/instruments/1138> <http://www.w3.org/2000/01/rdf-schema#label> "Paraguayan harp" .
+<http://data.carnegiehall.org/instruments/1152> <http://www.w3.org/2000/01/rdf-schema#label> "bansuri" .
+<http://data.carnegiehall.org/instruments/409> <http://www.w3.org/2000/01/rdf-schema#label> "host" .
+<http://data.carnegiehall.org/instruments/1170> <http://www.w3.org/2000/01/rdf-schema#label> "kamalen ngoni" .
+<http://data.carnegiehall.org/instruments/925> <http://www.w3.org/2000/01/rdf-schema#label> "electronic drums" .
+<http://data.carnegiehall.org/instruments/553> <http://www.w3.org/2000/01/rdf-schema#label> "bass clarinet" .
+<http://data.carnegiehall.org/instruments/1245> <http://www.w3.org/2000/01/rdf-schema#label> "appalachian dulcimer" .
+<http://data.carnegiehall.org/instruments/263> <http://www.w3.org/2000/01/rdf-schema#label> "Japanese Instrument" .
+<http://data.carnegiehall.org/instruments/768> <http://www.w3.org/2000/01/rdf-schema#label> "bass buccina" .
+<http://data.carnegiehall.org/instruments/38> <http://www.w3.org/2000/01/rdf-schema#label> "alto recorder" .
+<http://data.carnegiehall.org/instruments/217> <http://www.w3.org/2000/01/rdf-schema#label> "vibraphone" .
+<http://data.carnegiehall.org/instruments/1157> <http://www.w3.org/2000/01/rdf-schema#label> "male soprano" .
+<http://data.carnegiehall.org/instruments/332> <http://www.w3.org/2000/01/rdf-schema#label> "guitar duo" .
+<http://data.carnegiehall.org/instruments/849> <http://www.w3.org/2000/01/rdf-schema#label> "12-string guitar" .
+<http://data.carnegiehall.org/instruments/1162> <http://www.w3.org/2000/01/rdf-schema#label> "limbe" .
+<http://data.carnegiehall.org/instruments/178> <http://www.w3.org/2000/01/rdf-schema#label> "crumhorn" .
+<http://data.carnegiehall.org/instruments/171> <http://www.w3.org/2000/01/rdf-schema#label> "baritone" .
+<http://data.carnegiehall.org/instruments/1354> <http://www.w3.org/2000/01/rdf-schema#label> "button accordion" .
+<http://data.carnegiehall.org/instruments/337> <http://www.w3.org/2000/01/rdf-schema#label> "quarter-tone piano" .
+<http://data.carnegiehall.org/instruments/1329> <http://www.w3.org/2000/01/rdf-schema#label> "zabumba" .
+<http://data.carnegiehall.org/instruments/1084> <http://www.w3.org/2000/01/rdf-schema#label> "melodica" .
+<http://data.carnegiehall.org/instruments/330> <http://www.w3.org/2000/01/rdf-schema#label> "folk ensemble" .
+<http://data.carnegiehall.org/instruments/410> <http://www.w3.org/2000/01/rdf-schema#label> "didjeridu" .
+<http://data.carnegiehall.org/instruments/992> <http://www.w3.org/2000/01/rdf-schema#label> "cavaquinho" .
+<http://data.carnegiehall.org/instruments/223> <http://www.w3.org/2000/01/rdf-schema#label> "Synclavier digital guitar" .
+<http://data.carnegiehall.org/instruments/1065> <http://www.w3.org/2000/01/rdf-schema#label> "tin flute" .
+<http://data.carnegiehall.org/instruments/51> <http://www.w3.org/2000/01/rdf-schema#label> "harmonium" .
+<http://data.carnegiehall.org/instruments/218> <http://www.w3.org/2000/01/rdf-schema#label> "talking drum" .
+<http://data.carnegiehall.org/instruments/775> <http://www.w3.org/2000/01/rdf-schema#label> "baroque guitar" .
+<http://data.carnegiehall.org/instruments/1370> <http://www.w3.org/2000/01/rdf-schema#label> "mariachi ensemble" .
+<http://data.carnegiehall.org/instruments/1359> <http://www.w3.org/2000/01/rdf-schema#label> "barbat" .
+<http://data.carnegiehall.org/instruments/199> <http://www.w3.org/2000/01/rdf-schema#label> "percussion quartet" .
+<http://data.carnegiehall.org/instruments/758> <http://www.w3.org/2000/01/rdf-schema#label> "electric guitar" .
+<http://data.carnegiehall.org/instruments/144> <http://www.w3.org/2000/01/rdf-schema#label> "17-string koto" .
+<http://data.carnegiehall.org/instruments/1414> <http://www.w3.org/2000/01/rdf-schema#label> "house music band" .
+<http://data.carnegiehall.org/instruments/1385> <http://www.w3.org/2000/01/rdf-schema#label> "nyckelharpa" .
+<http://data.carnegiehall.org/instruments/113> <http://www.w3.org/2000/01/rdf-schema#label> "10-string guitar" .
+<http://data.carnegiehall.org/instruments/247> <http://www.w3.org/2000/01/rdf-schema#label> "finger cymbals" .
+<http://data.carnegiehall.org/instruments/451> <http://www.w3.org/2000/01/rdf-schema#label> "alto horn" .
+<http://data.carnegiehall.org/instruments/994> <http://www.w3.org/2000/01/rdf-schema#label> "metallophone" .
+<http://data.carnegiehall.org/instruments/398> <http://www.w3.org/2000/01/rdf-schema#label> "dulcimer" .
+<http://data.carnegiehall.org/instruments/712> <http://www.w3.org/2000/01/rdf-schema#label> "violetta" .
+<http://data.carnegiehall.org/instruments/1253> <http://www.w3.org/2000/01/rdf-schema#label> "hurdy-gurdy" .
+<http://data.carnegiehall.org/instruments/627> <http://www.w3.org/2000/01/rdf-schema#label> "dhamsa" .
+<http://data.carnegiehall.org/instruments/495> <http://www.w3.org/2000/01/rdf-schema#label> "dulcian" .
+<http://data.carnegiehall.org/instruments/435> <http://www.w3.org/2000/01/rdf-schema#label> "piccolo trumpet" .
+<http://data.carnegiehall.org/instruments/874> <http://www.w3.org/2000/01/rdf-schema#label> "cornett" .
+<http://data.carnegiehall.org/instruments/1335> <http://www.w3.org/2000/01/rdf-schema#label> "berimbau" .
+<http://data.carnegiehall.org/instruments/1413> <http://www.w3.org/2000/01/rdf-schema#label> "zydeco band" .
+<http://data.carnegiehall.org/instruments/450> <http://www.w3.org/2000/01/rdf-schema#label> "bandmaster" .
+<http://data.carnegiehall.org/instruments/373> <http://www.w3.org/2000/01/rdf-schema#label> "cembalo" .
+<http://data.carnegiehall.org/instruments/941> <http://www.w3.org/2000/01/rdf-schema#label> "viola da gamba" .
+<http://data.carnegiehall.org/instruments/1254> <http://www.w3.org/2000/01/rdf-schema#label> "taepyeongso" .
+<http://data.carnegiehall.org/instruments/999> <http://www.w3.org/2000/01/rdf-schema#label> "gospel singer" .
+<http://data.carnegiehall.org/instruments/1219> <http://www.w3.org/2000/01/rdf-schema#label> "Irish flute" .
+<http://data.carnegiehall.org/instruments/1242> <http://www.w3.org/2000/01/rdf-schema#label> "performance artist" .
+<http://data.carnegiehall.org/instruments/1269> <http://www.w3.org/2000/01/rdf-schema#label> "mey" .
+<http://data.carnegiehall.org/instruments/1339> <http://www.w3.org/2000/01/rdf-schema#label> "shyngyrash" .
+<http://data.carnegiehall.org/instruments/1087> <http://www.w3.org/2000/01/rdf-schema#label> "dulzaina" .
+<http://data.carnegiehall.org/instruments/491> <http://www.w3.org/2000/01/rdf-schema#label> "bass-baritone" .
+<http://data.carnegiehall.org/instruments/612> <http://www.w3.org/2000/01/rdf-schema#label> "mezzo-soprano" .
+<http://data.carnegiehall.org/instruments/1069> <http://www.w3.org/2000/01/rdf-schema#label> "bass recorder" .
+<http://data.carnegiehall.org/instruments/1231> <http://www.w3.org/2000/01/rdf-schema#label> "kañjira" .
+<http://data.carnegiehall.org/instruments/66> <http://www.w3.org/2000/01/rdf-schema#label> "boy soprano" .
+<http://data.carnegiehall.org/instruments/1386> <http://www.w3.org/2000/01/rdf-schema#label> "tsimbl" .
+<http://data.carnegiehall.org/instruments/251> <http://www.w3.org/2000/01/rdf-schema#label> "fortepiano" .
+<http://data.carnegiehall.org/instruments/1229> <http://www.w3.org/2000/01/rdf-schema#label> "piwang" .
+<http://data.carnegiehall.org/instruments/613> <http://www.w3.org/2000/01/rdf-schema#label> "kazoo" .
+<http://data.carnegiehall.org/instruments/889> <http://www.w3.org/2000/01/rdf-schema#label> "baryton" .
+<http://data.carnegiehall.org/instruments/897> <http://www.w3.org/2000/01/rdf-schema#label> "banjo" .
+<http://data.carnegiehall.org/instruments/456> <http://www.w3.org/2000/01/rdf-schema#label> "lap steel guitar" .
+<http://data.carnegiehall.org/instruments/955> <http://www.w3.org/2000/01/rdf-schema#label> "barbershop quartet" .
+<http://data.carnegiehall.org/instruments/264> <http://www.w3.org/2000/01/rdf-schema#label> "zurna" .
+<http://data.carnegiehall.org/instruments/673> <http://www.w3.org/2000/01/rdf-schema#label> "daouli" .
+<http://data.carnegiehall.org/instruments/603> <http://www.w3.org/2000/01/rdf-schema#label> "alto clarinet" .
+<http://data.carnegiehall.org/instruments/1222> <http://www.w3.org/2000/01/rdf-schema#label> "metal blocks" .
+<http://data.carnegiehall.org/instruments/1270> <http://www.w3.org/2000/01/rdf-schema#label> "def" .
+<http://data.carnegiehall.org/instruments/628> <http://www.w3.org/2000/01/rdf-schema#label> "krapeu" .
+<http://data.carnegiehall.org/instruments/1234> <http://www.w3.org/2000/01/rdf-schema#label> "tilinca" .
+<http://data.carnegiehall.org/instruments/998> <http://www.w3.org/2000/01/rdf-schema#label> "undefined" .
+<http://data.carnegiehall.org/instruments/711> <http://www.w3.org/2000/01/rdf-schema#label> "sextet" .
+<http://data.carnegiehall.org/instruments/119> <http://www.w3.org/2000/01/rdf-schema#label> "yangqin" .
+<http://data.carnegiehall.org/instruments/856> <http://www.w3.org/2000/01/rdf-schema#label> "alto flute" .
+<http://data.carnegiehall.org/instruments/1059> <http://www.w3.org/2000/01/rdf-schema#label> "ghaychak" .
+<http://data.carnegiehall.org/instruments/1320> <http://www.w3.org/2000/01/rdf-schema#label> "tubular bells" .
+<http://data.carnegiehall.org/instruments/406> <http://www.w3.org/2000/01/rdf-schema#label> "kkwaenggwari" .
+<http://data.carnegiehall.org/instruments/1332> <http://www.w3.org/2000/01/rdf-schema#label> "autoharp" .
+<http://data.carnegiehall.org/instruments/801> <http://www.w3.org/2000/01/rdf-schema#label> "kamancheh" .
+<http://data.carnegiehall.org/instruments/1153> <http://www.w3.org/2000/01/rdf-schema#label> "gusli" .
+<http://data.carnegiehall.org/instruments/814> <http://www.w3.org/2000/01/rdf-schema#label> "baroque viola" .
+<http://data.carnegiehall.org/instruments/27> <http://www.w3.org/2000/01/rdf-schema#label> "viol" .
+<http://data.carnegiehall.org/instruments/184> <http://www.w3.org/2000/01/rdf-schema#label> "tape" .
+<http://data.carnegiehall.org/instruments/1448> <http://www.w3.org/2000/01/rdf-schema#label> "post-punk rock band" .
+<http://data.carnegiehall.org/instruments/804> <http://www.w3.org/2000/01/rdf-schema#label> "octavina" .
+<http://data.carnegiehall.org/instruments/1155> <http://www.w3.org/2000/01/rdf-schema#label> "frottoir" .
+<http://data.carnegiehall.org/instruments/1121> <http://www.w3.org/2000/01/rdf-schema#label> "dombra" .
+<http://data.carnegiehall.org/instruments/922> <http://www.w3.org/2000/01/rdf-schema#label> "bass balalaika" .
+<http://data.carnegiehall.org/instruments/1277> <http://www.w3.org/2000/01/rdf-schema#label> "tambour" .
+<http://data.carnegiehall.org/instruments/1193> <http://www.w3.org/2000/01/rdf-schema#label> "nagara" .
+<http://data.carnegiehall.org/instruments/1366> <http://www.w3.org/2000/01/rdf-schema#label> "bamboo marimba" .
+<http://data.carnegiehall.org/instruments/1296> <http://www.w3.org/2000/01/rdf-schema#label> "dutar" .
+<http://data.carnegiehall.org/instruments/837> <http://www.w3.org/2000/01/rdf-schema#label> "pipa" .
+<http://data.carnegiehall.org/instruments/631> <http://www.w3.org/2000/01/rdf-schema#label> "folk singer" .
+<http://data.carnegiehall.org/instruments/1099> <http://www.w3.org/2000/01/rdf-schema#label> "amadinda" .
+<http://data.carnegiehall.org/instruments/836> <http://www.w3.org/2000/01/rdf-schema#label> "sampho" .
+<http://data.carnegiehall.org/instruments/537> <http://www.w3.org/2000/01/rdf-schema#label> "qanun" .
+<http://data.carnegiehall.org/instruments/1243> <http://www.w3.org/2000/01/rdf-schema#label> "zampoña" .
+<http://data.carnegiehall.org/instruments/369> <http://www.w3.org/2000/01/rdf-schema#label> "mens chorus" .
+<http://data.carnegiehall.org/instruments/818> <http://www.w3.org/2000/01/rdf-schema#label> "duo pianists" .
+<http://data.carnegiehall.org/instruments/315> <http://www.w3.org/2000/01/rdf-schema#label> "wind machine" .
+<http://data.carnegiehall.org/instruments/1220> <http://www.w3.org/2000/01/rdf-schema#label> "Native American rainstick" .
+<http://data.carnegiehall.org/instruments/934> <http://www.w3.org/2000/01/rdf-schema#label> "double keyboard piano" .
+<http://data.carnegiehall.org/instruments/1230> <http://www.w3.org/2000/01/rdf-schema#label> "ghatam" .
+<http://data.carnegiehall.org/instruments/308> <http://www.w3.org/2000/01/rdf-schema#label> "steel drums" .
+<http://data.carnegiehall.org/instruments/31> <http://www.w3.org/2000/01/rdf-schema#label> "steel guitar" .
+<http://data.carnegiehall.org/instruments/1017> <http://www.w3.org/2000/01/rdf-schema#label> "rhythm and blues band" .
+<http://data.carnegiehall.org/instruments/1176> <http://www.w3.org/2000/01/rdf-schema#label> "laptop" .
+<http://data.carnegiehall.org/instruments/1430> <http://www.w3.org/2000/01/rdf-schema#label> "shuitar" .
+<http://data.carnegiehall.org/instruments/600> <http://www.w3.org/2000/01/rdf-schema#label> "lute" .
+<http://data.carnegiehall.org/instruments/1287> <http://www.w3.org/2000/01/rdf-schema#label> "quarter-tone guitar" .
+<http://data.carnegiehall.org/instruments/1408> <http://www.w3.org/2000/01/rdf-schema#label> "tambora" .
+<http://data.carnegiehall.org/instruments/832> <http://www.w3.org/2000/01/rdf-schema#label> "bellophone" .
+<http://data.carnegiehall.org/instruments/82> <http://www.w3.org/2000/01/rdf-schema#label> "rabab" .
+<http://data.carnegiehall.org/instruments/869> <http://www.w3.org/2000/01/rdf-schema#label> "quena" .
+<http://data.carnegiehall.org/instruments/33> <http://www.w3.org/2000/01/rdf-schema#label> "slack-key guitar" .
+<http://data.carnegiehall.org/instruments/1395> <http://www.w3.org/2000/01/rdf-schema#label> "stylophone" .
+<http://data.carnegiehall.org/instruments/345> <http://www.w3.org/2000/01/rdf-schema#label> "saxhorn" .
+<http://data.carnegiehall.org/instruments/1420> <http://www.w3.org/2000/01/rdf-schema#label> "baton twirler" .
+<http://data.carnegiehall.org/instruments/236> <http://www.w3.org/2000/01/rdf-schema#label> "ceremonial bell" .
+<http://data.carnegiehall.org/instruments/1271> <http://www.w3.org/2000/01/rdf-schema#label> "guimbri" .
+<http://data.carnegiehall.org/instruments/1255> <http://www.w3.org/2000/01/rdf-schema#label> "saenghwang" .
+<http://data.carnegiehall.org/instruments/488> <http://www.w3.org/2000/01/rdf-schema#label> "keyboard glockenspiel" .
+<http://data.carnegiehall.org/instruments/548> <http://www.w3.org/2000/01/rdf-schema#label> "buhk" .
+<http://data.carnegiehall.org/instruments/1372> <http://www.w3.org/2000/01/rdf-schema#label> "zhetygen" .
+<http://data.carnegiehall.org/instruments/1289> <http://www.w3.org/2000/01/rdf-schema#label> "morchang" .
+<http://data.carnegiehall.org/instruments/307> <http://www.w3.org/2000/01/rdf-schema#label> "treble shawm" .
+<http://data.carnegiehall.org/instruments/453> <http://www.w3.org/2000/01/rdf-schema#label> "pipe sergeant" .
+<http://data.carnegiehall.org/instruments/34> <http://www.w3.org/2000/01/rdf-schema#label> "nokan" .
+<http://data.carnegiehall.org/instruments/885> <http://www.w3.org/2000/01/rdf-schema#label> "mbira" .
+<http://data.carnegiehall.org/instruments/79> <http://www.w3.org/2000/01/rdf-schema#label> "kakko" .
+<http://data.carnegiehall.org/instruments/993> <http://www.w3.org/2000/01/rdf-schema#label> "flautino" .
+<http://data.carnegiehall.org/instruments/1264> <http://www.w3.org/2000/01/rdf-schema#label> "pifano" .
+<http://data.carnegiehall.org/instruments/924> <http://www.w3.org/2000/01/rdf-schema#label> "dap" .
+<http://data.carnegiehall.org/instruments/1100> <http://www.w3.org/2000/01/rdf-schema#label> "tambin" .
+<http://data.carnegiehall.org/instruments/555> <http://www.w3.org/2000/01/rdf-schema#label> "ondes Martenot" .
+<http://data.carnegiehall.org/instruments/348> <http://www.w3.org/2000/01/rdf-schema#label> "corno da caccia" .
+<http://data.carnegiehall.org/instruments/1102> <http://www.w3.org/2000/01/rdf-schema#label> "mizhar" .
+<http://data.carnegiehall.org/instruments/448> <http://www.w3.org/2000/01/rdf-schema#label> "santur" .
+<http://data.carnegiehall.org/instruments/1330> <http://www.w3.org/2000/01/rdf-schema#label> "rabeca" .
+<http://data.carnegiehall.org/instruments/1119> <http://www.w3.org/2000/01/rdf-schema#label> "tanbur" .
+<http://data.carnegiehall.org/instruments/1439> <http://www.w3.org/2000/01/rdf-schema#label> "tambor mayor" .
+<http://data.carnegiehall.org/instruments/509> <http://www.w3.org/2000/01/rdf-schema#label> "panelist" .
+<http://data.carnegiehall.org/instruments/1178> <http://www.w3.org/2000/01/rdf-schema#label> "shourangiz" .
+<http://data.carnegiehall.org/instruments/447> <http://www.w3.org/2000/01/rdf-schema#label> "wind quintet" .
+<http://data.carnegiehall.org/instruments/259> <http://www.w3.org/2000/01/rdf-schema#label> "ruan" .
+<http://data.carnegiehall.org/instruments/953> <http://www.w3.org/2000/01/rdf-schema#label> "theorbo" .
+<http://data.carnegiehall.org/instruments/1174> <http://www.w3.org/2000/01/rdf-schema#label> "trimba" .
+<http://data.carnegiehall.org/instruments/407> <http://www.w3.org/2000/01/rdf-schema#label> "ryuteki" .
+<http://data.carnegiehall.org/instruments/233> <http://www.w3.org/2000/01/rdf-schema#label> "kartal" .
+<http://data.carnegiehall.org/instruments/197> <http://www.w3.org/2000/01/rdf-schema#label> "harpsichord" .
+<http://data.carnegiehall.org/instruments/1429> <http://www.w3.org/2000/01/rdf-schema#label> "cèilidh band" .
+<http://data.carnegiehall.org/instruments/1435> <http://www.w3.org/2000/01/rdf-schema#label> "buk" .
+<http://data.carnegiehall.org/instruments/666> <http://www.w3.org/2000/01/rdf-schema#label> "rapper" .
+<http://data.carnegiehall.org/instruments/587> <http://www.w3.org/2000/01/rdf-schema#label> "whistler" .
+<http://data.carnegiehall.org/instruments/507> <http://www.w3.org/2000/01/rdf-schema#label> "actor" .
+<http://data.carnegiehall.org/instruments/1299> <http://www.w3.org/2000/01/rdf-schema#label> "koboz" .
+<http://data.carnegiehall.org/instruments/556> <http://www.w3.org/2000/01/rdf-schema#label> "sopranino saxophone" .
+<http://data.carnegiehall.org/instruments/257> <http://www.w3.org/2000/01/rdf-schema#label> "unspecified" .
+<http://data.carnegiehall.org/instruments/243> <http://www.w3.org/2000/01/rdf-schema#label> "percussion" .
+<http://data.carnegiehall.org/instruments/1358> <http://www.w3.org/2000/01/rdf-schema#label> "tack piano" .
+<http://data.carnegiehall.org/instruments/756> <http://www.w3.org/2000/01/rdf-schema#label> "Stroviol" .
+<http://data.carnegiehall.org/instruments/1225> <http://www.w3.org/2000/01/rdf-schema#label> "double-bell trumpet" .
+<http://data.carnegiehall.org/instruments/54> <http://www.w3.org/2000/01/rdf-schema#label> "organ" .
+<http://data.carnegiehall.org/instruments/368> <http://www.w3.org/2000/01/rdf-schema#label> "boys chorus" .
+<http://data.carnegiehall.org/instruments/459> <http://www.w3.org/2000/01/rdf-schema#label> "komungo" .
+<http://data.carnegiehall.org/instruments/191> <http://www.w3.org/2000/01/rdf-schema#label> "viola d'amore" .
+<http://data.carnegiehall.org/instruments/60> <http://www.w3.org/2000/01/rdf-schema#label> "shaker" .
+<http://data.carnegiehall.org/instruments/120> <http://www.w3.org/2000/01/rdf-schema#label> "narrator" .
+<http://data.carnegiehall.org/instruments/580> <http://www.w3.org/2000/01/rdf-schema#label> "vihuela" .
+<http://data.carnegiehall.org/instruments/1093> <http://www.w3.org/2000/01/rdf-schema#label> "mind reader" .
+<http://data.carnegiehall.org/instruments/1316> <http://www.w3.org/2000/01/rdf-schema#label> "cloud-chamber bowls" .
+<http://data.carnegiehall.org/instruments/221> <http://www.w3.org/2000/01/rdf-schema#label> "positive organ" .
+<http://data.carnegiehall.org/instruments/170> <http://www.w3.org/2000/01/rdf-schema#label> "slide whistle" .
+<http://data.carnegiehall.org/instruments/219> <http://www.w3.org/2000/01/rdf-schema#label> "clavilux" .
+<http://data.carnegiehall.org/instruments/896> <http://www.w3.org/2000/01/rdf-schema#label> "alto saxophone" .
+<http://data.carnegiehall.org/instruments/960> <http://www.w3.org/2000/01/rdf-schema#label> "banhu" .
+<http://data.carnegiehall.org/instruments/189> <http://www.w3.org/2000/01/rdf-schema#label> "English horn" .
+<http://data.carnegiehall.org/instruments/40> <http://www.w3.org/2000/01/rdf-schema#label> "violinophone" .
+<http://data.carnegiehall.org/instruments/140> <http://www.w3.org/2000/01/rdf-schema#label> "bouzouki" .
+<http://data.carnegiehall.org/instruments/7> <http://www.w3.org/2000/01/rdf-schema#label> "glass chimes" .
+<http://data.carnegiehall.org/instruments/322> <http://www.w3.org/2000/01/rdf-schema#label> "guiro" .
+<http://data.carnegiehall.org/instruments/534> <http://www.w3.org/2000/01/rdf-schema#label> "mukha veena" .
+<http://data.carnegiehall.org/instruments/455> <http://www.w3.org/2000/01/rdf-schema#label> "komabue" .
+<http://data.carnegiehall.org/instruments/972> <http://www.w3.org/2000/01/rdf-schema#label> "zhonghu" .
+<http://data.carnegiehall.org/instruments/949> <http://www.w3.org/2000/01/rdf-schema#label> "violin" .
+<http://data.carnegiehall.org/instruments/484> <http://www.w3.org/2000/01/rdf-schema#label> "cello" .
+<http://data.carnegiehall.org/instruments/1201> <http://www.w3.org/2000/01/rdf-schema#label> "dhol" .
+<http://data.carnegiehall.org/instruments/1149> <http://www.w3.org/2000/01/rdf-schema#label> "mouth bow" .
+<http://data.carnegiehall.org/instruments/1398> <http://www.w3.org/2000/01/rdf-schema#label> "bones" .
+<http://data.carnegiehall.org/instruments/1317> <http://www.w3.org/2000/01/rdf-schema#label> "tenor violin" .
+<http://data.carnegiehall.org/instruments/703> <http://www.w3.org/2000/01/rdf-schema#label> "san-no-tsuzumi" .
+<http://data.carnegiehall.org/instruments/1118> <http://www.w3.org/2000/01/rdf-schema#label> "gamelan ensemble" .
+<http://data.carnegiehall.org/instruments/1282> <http://www.w3.org/2000/01/rdf-schema#label> "fellowship advisor" .
+<http://data.carnegiehall.org/instruments/833> <http://www.w3.org/2000/01/rdf-schema#label> "boy alto" .
+<http://data.carnegiehall.org/instruments/1175> <http://www.w3.org/2000/01/rdf-schema#label> "treble" .
+<http://data.carnegiehall.org/instruments/544> <http://www.w3.org/2000/01/rdf-schema#label> "suona" .
+<http://data.carnegiehall.org/instruments/1357> <http://www.w3.org/2000/01/rdf-schema#label> "harmonaboard" .
+<http://data.carnegiehall.org/instruments/1371> <http://www.w3.org/2000/01/rdf-schema#label> "resonator guitar" .
+<http://data.carnegiehall.org/instruments/115> <http://www.w3.org/2000/01/rdf-schema#label> "cuatro" .
+<http://data.carnegiehall.org/instruments/990> <http://www.w3.org/2000/01/rdf-schema#label> "salamiya" .
+<http://data.carnegiehall.org/instruments/1106> <http://www.w3.org/2000/01/rdf-schema#label> "djembe" .
+<http://data.carnegiehall.org/instruments/156> <http://www.w3.org/2000/01/rdf-schema#label> "timpani" .
+<http://data.carnegiehall.org/instruments/1177> <http://www.w3.org/2000/01/rdf-schema#label> "setar" .
+<http://data.carnegiehall.org/instruments/1217> <http://www.w3.org/2000/01/rdf-schema#label> "accordina" .
+<http://data.carnegiehall.org/instruments/1129> <http://www.w3.org/2000/01/rdf-schema#label> "Venezuelan harp" .
+<http://data.carnegiehall.org/instruments/615> <http://www.w3.org/2000/01/rdf-schema#label> "baroque violin" .
+<http://data.carnegiehall.org/instruments/811> <http://www.w3.org/2000/01/rdf-schema#label> "zheng" .
+<http://data.carnegiehall.org/instruments/1125> <http://www.w3.org/2000/01/rdf-schema#label> "Portuguese guitar" .
+<http://data.carnegiehall.org/instruments/1441> <http://www.w3.org/2000/01/rdf-schema#label> "bass viol" .
+<http://data.carnegiehall.org/instruments/1415> <http://www.w3.org/2000/01/rdf-schema#label> "funk rock band" .
+<http://data.carnegiehall.org/instruments/86> <http://www.w3.org/2000/01/rdf-schema#label> "colour organ" .
+<http://data.carnegiehall.org/instruments/1123> <http://www.w3.org/2000/01/rdf-schema#label> "cajon" .
+<http://data.carnegiehall.org/instruments/141> <http://www.w3.org/2000/01/rdf-schema#label> "wood flute" .
+<http://data.carnegiehall.org/instruments/974> <http://www.w3.org/2000/01/rdf-schema#label> "hichiriki" .
+<http://data.carnegiehall.org/instruments/1199> <http://www.w3.org/2000/01/rdf-schema#label> "disc jockey" .
+<http://data.carnegiehall.org/instruments/517> <http://www.w3.org/2000/01/rdf-schema#label> "claves" .
+<http://data.carnegiehall.org/instruments/561> <http://www.w3.org/2000/01/rdf-schema#label> "trombone" .
+<http://data.carnegiehall.org/instruments/704> <http://www.w3.org/2000/01/rdf-schema#label> "saz" .
+<http://data.carnegiehall.org/instruments/177> <http://www.w3.org/2000/01/rdf-schema#label> "zarb" .
+<http://data.carnegiehall.org/instruments/835> <http://www.w3.org/2000/01/rdf-schema#label> "spoons" .
+<http://data.carnegiehall.org/instruments/536> <http://www.w3.org/2000/01/rdf-schema#label> "sitar" .
+<http://data.carnegiehall.org/instruments/256> <http://www.w3.org/2000/01/rdf-schema#label> "wind ensemble" .
+<http://data.carnegiehall.org/instruments/1307> <http://www.w3.org/2000/01/rdf-schema#label> "tamborn" .
+<http://data.carnegiehall.org/instruments/1350> <http://www.w3.org/2000/01/rdf-schema#label> "wadaiko" .
+<http://data.carnegiehall.org/instruments/812> <http://www.w3.org/2000/01/rdf-schema#label> "string trio" .
+<http://data.carnegiehall.org/instruments/1207> <http://www.w3.org/2000/01/rdf-schema#label> "liuqin" .
+<http://data.carnegiehall.org/instruments/364> <http://www.w3.org/2000/01/rdf-schema#label> "dumbek" .
+<http://data.carnegiehall.org/instruments/65> <http://www.w3.org/2000/01/rdf-schema#label> "saxophone" .
+<http://data.carnegiehall.org/instruments/1073> <http://www.w3.org/2000/01/rdf-schema#label> "skater" .
+<http://data.carnegiehall.org/instruments/1378> <http://www.w3.org/2000/01/rdf-schema#label> "uhadi" .
+<http://data.carnegiehall.org/instruments/1128> <http://www.w3.org/2000/01/rdf-schema#label> "daf" .
+<http://data.carnegiehall.org/instruments/190> <http://www.w3.org/2000/01/rdf-schema#label> "tenor saxophone" .
+<http://data.carnegiehall.org/instruments/267> <http://www.w3.org/2000/01/rdf-schema#label> "mandola" .
+<http://data.carnegiehall.org/instruments/1328> <http://www.w3.org/2000/01/rdf-schema#label> "gusle" .
+<http://data.carnegiehall.org/instruments/1158> <http://www.w3.org/2000/01/rdf-schema#label> "trombone quartet" .
+<http://data.carnegiehall.org/instruments/663> <http://www.w3.org/2000/01/rdf-schema#label> "prepared piano" .
+<http://data.carnegiehall.org/instruments/1238> <http://www.w3.org/2000/01/rdf-schema#label> "Nord electro" .
+<http://data.carnegiehall.org/instruments/397> <http://www.w3.org/2000/01/rdf-schema#label> "electric keyboards" .
+<http://data.carnegiehall.org/instruments/873> <http://www.w3.org/2000/01/rdf-schema#label> "rackett" .
+<http://data.carnegiehall.org/instruments/230> <http://www.w3.org/2000/01/rdf-schema#label> "taisho-goto" .
+<http://data.carnegiehall.org/instruments/709> <http://www.w3.org/2000/01/rdf-schema#label> "tenor shawm" .
+<http://data.carnegiehall.org/instruments/36> <http://www.w3.org/2000/01/rdf-schema#label> "mandocello" .
+<http://data.carnegiehall.org/instruments/891> <http://www.w3.org/2000/01/rdf-schema#label> "Native American flute" .
+<http://data.carnegiehall.org/instruments/110> <http://www.w3.org/2000/01/rdf-schema#label> "Irish harp" .
+<http://data.carnegiehall.org/instruments/1376> <http://www.w3.org/2000/01/rdf-schema#label> "ghoema" .
+<http://data.carnegiehall.org/instruments/1363> <http://www.w3.org/2000/01/rdf-schema#label> "flute choir" .
+<http://data.carnegiehall.org/instruments/1103> <http://www.w3.org/2000/01/rdf-schema#label> "ronroco" .
+<http://data.carnegiehall.org/instruments/1260> <http://www.w3.org/2000/01/rdf-schema#label> "wind chimes" .
+<http://data.carnegiehall.org/instruments/862> <http://www.w3.org/2000/01/rdf-schema#label> "xylophone" .
+<http://data.carnegiehall.org/instruments/868> <http://www.w3.org/2000/01/rdf-schema#label> "washboard" .
+<http://data.carnegiehall.org/instruments/276> <http://www.w3.org/2000/01/rdf-schema#label> "2-channel magnetic tape" .
+<http://data.carnegiehall.org/instruments/1438> <http://www.w3.org/2000/01/rdf-schema#label> "regal" .
+<http://data.carnegiehall.org/instruments/1143> <http://www.w3.org/2000/01/rdf-schema#label> "contrabass balalaika" .
+<http://data.carnegiehall.org/instruments/329> <http://www.w3.org/2000/01/rdf-schema#label> "charango" .
+<http://data.carnegiehall.org/instruments/985> <http://www.w3.org/2000/01/rdf-schema#label> "tom-tom" .
+<http://data.carnegiehall.org/instruments/1236> <http://www.w3.org/2000/01/rdf-schema#label> "conch" .
+<http://data.carnegiehall.org/instruments/1181> <http://www.w3.org/2000/01/rdf-schema#label> "high bara" .
+<http://data.carnegiehall.org/instruments/1283> <http://www.w3.org/2000/01/rdf-schema#label> "concert mentor" .
+<http://data.carnegiehall.org/instruments/586> <http://www.w3.org/2000/01/rdf-schema#label> "sabre" .
+<http://data.carnegiehall.org/instruments/400> <http://www.w3.org/2000/01/rdf-schema#label> "synthesizer" .
+<http://data.carnegiehall.org/instruments/809> <http://www.w3.org/2000/01/rdf-schema#label> "Irish pipes" .
+<http://data.carnegiehall.org/instruments/179> <http://www.w3.org/2000/01/rdf-schema#label> "huqin" .
+<http://data.carnegiehall.org/instruments/1203> <http://www.w3.org/2000/01/rdf-schema#label> "shvi" .
+<http://data.carnegiehall.org/instruments/665> <http://www.w3.org/2000/01/rdf-schema#label> "childrens chorus" .
+<http://data.carnegiehall.org/instruments/442> <http://www.w3.org/2000/01/rdf-schema#label> "clown" .
+<http://data.carnegiehall.org/instruments/1261> <http://www.w3.org/2000/01/rdf-schema#label> "guitarra de son" .
+<http://data.carnegiehall.org/instruments/504> <http://www.w3.org/2000/01/rdf-schema#label> "dance group" .
+<http://data.carnegiehall.org/instruments/449> <http://www.w3.org/2000/01/rdf-schema#label> "rebec" .
+<http://data.carnegiehall.org/instruments/395> <http://www.w3.org/2000/01/rdf-schema#label> "bandura" .
+<http://data.carnegiehall.org/instruments/565> <http://www.w3.org/2000/01/rdf-schema#label> "reciter" .
+<http://data.carnegiehall.org/instruments/975> <http://www.w3.org/2000/01/rdf-schema#label> "slide trumpet" .
+<http://data.carnegiehall.org/instruments/188> <http://www.w3.org/2000/01/rdf-schema#label> "chekere" .
+<http://data.carnegiehall.org/instruments/1294> <http://www.w3.org/2000/01/rdf-schema#label> "dan t'rung" .
+<http://data.carnegiehall.org/instruments/899> <http://www.w3.org/2000/01/rdf-schema#label> "baritone saxophone" .
+<http://data.carnegiehall.org/instruments/855> <http://www.w3.org/2000/01/rdf-schema#label> "Crumar orchestrator" .
+<http://data.carnegiehall.org/instruments/1211> <http://www.w3.org/2000/01/rdf-schema#label> "kugo" .
+<http://data.carnegiehall.org/instruments/695> <http://www.w3.org/2000/01/rdf-schema#label> "mechanical piano" .
+<http://data.carnegiehall.org/instruments/1235> <http://www.w3.org/2000/01/rdf-schema#label> "diseuse" .
+<http://data.carnegiehall.org/instruments/1095> <http://www.w3.org/2000/01/rdf-schema#label> "endingidi" .
+<http://data.carnegiehall.org/instruments/776> <http://www.w3.org/2000/01/rdf-schema#label> "kora" .
+<http://data.carnegiehall.org/instruments/28> <http://www.w3.org/2000/01/rdf-schema#label> "tenor viol" .
+<http://data.carnegiehall.org/instruments/1268> <http://www.w3.org/2000/01/rdf-schema#label> "hexaphonic guitar" .
+<http://data.carnegiehall.org/instruments/654> <http://www.w3.org/2000/01/rdf-schema#label> "flute" .
+<http://data.carnegiehall.org/instruments/614> <http://www.w3.org/2000/01/rdf-schema#label> "baroque lute" .
+<http://data.carnegiehall.org/instruments/1312> <http://www.w3.org/2000/01/rdf-schema#label> "surrogate kithara" .
+<http://data.carnegiehall.org/instruments/1297> <http://www.w3.org/2000/01/rdf-schema#label> "doira" .
+<http://data.carnegiehall.org/instruments/1443> <http://www.w3.org/2000/01/rdf-schema#label> "arpa doppia" .
+<http://data.carnegiehall.org/instruments/265> <http://www.w3.org/2000/01/rdf-schema#label> "khartal" .
+<http://data.carnegiehall.org/instruments/1173> <http://www.w3.org/2000/01/rdf-schema#label> "sul-janggo" .
+<http://data.carnegiehall.org/instruments/1133> <http://www.w3.org/2000/01/rdf-schema#label> "e-flat bass horn" .
+<http://data.carnegiehall.org/instruments/823> <http://www.w3.org/2000/01/rdf-schema#label> "electric piano" .
+<http://data.carnegiehall.org/instruments/963> <http://www.w3.org/2000/01/rdf-schema#label> "bass flute" .
+<http://data.carnegiehall.org/instruments/785> <http://www.w3.org/2000/01/rdf-schema#label> "chain" .
+<http://data.carnegiehall.org/instruments/582> <http://www.w3.org/2000/01/rdf-schema#label> "Northumbrian smallpipe" .
+<http://data.carnegiehall.org/instruments/506> <http://www.w3.org/2000/01/rdf-schema#label> "fusegane" .
+<http://data.carnegiehall.org/instruments/1144> <http://www.w3.org/2000/01/rdf-schema#label> "shekere" .
+<http://data.carnegiehall.org/instruments/226> <http://www.w3.org/2000/01/rdf-schema#label> "erhu" .
+<http://data.carnegiehall.org/instruments/500> <http://www.w3.org/2000/01/rdf-schema#label> "griot" .
+<http://data.carnegiehall.org/instruments/64> <http://www.w3.org/2000/01/rdf-schema#label> "piccolo" .
+<http://data.carnegiehall.org/instruments/1365> <http://www.w3.org/2000/01/rdf-schema#label> "bloboy" .
+<http://data.carnegiehall.org/instruments/607> <http://www.w3.org/2000/01/rdf-schema#label> "hi-hat" .
+<http://data.carnegiehall.org/instruments/583> <http://www.w3.org/2000/01/rdf-schema#label> "automobile horn" .
+<http://data.carnegiehall.org/instruments/378> <http://www.w3.org/2000/01/rdf-schema#label> "cowbell" .
+<http://data.carnegiehall.org/instruments/973> <http://www.w3.org/2000/01/rdf-schema#label> "bendir" .
+<http://data.carnegiehall.org/instruments/386> <http://www.w3.org/2000/01/rdf-schema#label> "alto" .
+<http://data.carnegiehall.org/instruments/376> <http://www.w3.org/2000/01/rdf-schema#label> "Native American drum" .
+<http://data.carnegiehall.org/instruments/176> <http://www.w3.org/2000/01/rdf-schema#label> "melodeon" .
+<http://data.carnegiehall.org/instruments/1401> <http://www.w3.org/2000/01/rdf-schema#label> "washtub bass" .
+<http://data.carnegiehall.org/instruments/1311> <http://www.w3.org/2000/01/rdf-schema#label> "spoils of war" .
+<http://data.carnegiehall.org/instruments/1187> <http://www.w3.org/2000/01/rdf-schema#label> "pygmy flute" .
+<http://data.carnegiehall.org/instruments/1161> <http://www.w3.org/2000/01/rdf-schema#label> "khalkh" .
+<http://data.carnegiehall.org/instruments/415> <http://www.w3.org/2000/01/rdf-schema#label> "whistle" .
+<http://data.carnegiehall.org/instruments/546> <http://www.w3.org/2000/01/rdf-schema#label> "tympanum" .
+<http://data.carnegiehall.org/instruments/13> <http://www.w3.org/2000/01/rdf-schema#label> "post horn" .
+<http://data.carnegiehall.org/instruments/575> <http://www.w3.org/2000/01/rdf-schema#label> "juggler" .
+<http://data.carnegiehall.org/instruments/481> <http://www.w3.org/2000/01/rdf-schema#label> "harp" .
+<http://data.carnegiehall.org/instruments/452> <http://www.w3.org/2000/01/rdf-schema#label> "baritone violin" .
+<http://data.carnegiehall.org/instruments/547> <http://www.w3.org/2000/01/rdf-schema#label> "baroque bass" .
+<http://data.carnegiehall.org/instruments/227> <http://www.w3.org/2000/01/rdf-schema#label> "piano trio" .
+<http://data.carnegiehall.org/instruments/735> <http://www.w3.org/2000/01/rdf-schema#label> "temple block" .
+<http://data.carnegiehall.org/instruments/1163> <http://www.w3.org/2000/01/rdf-schema#label> "kalmik" .
+<http://data.carnegiehall.org/instruments/99> <http://www.w3.org/2000/01/rdf-schema#label> "hand drum" .
+<http://data.carnegiehall.org/instruments/1151> <http://www.w3.org/2000/01/rdf-schema#label> "petwo drums" .
+<http://data.carnegiehall.org/instruments/581> <http://www.w3.org/2000/01/rdf-schema#label> "sheng" .
+<http://data.carnegiehall.org/instruments/270> <http://www.w3.org/2000/01/rdf-schema#label> "euphonium" .
+<http://data.carnegiehall.org/instruments/52> <http://www.w3.org/2000/01/rdf-schema#label> "luthéal" .
+<http://data.carnegiehall.org/instruments/739> <http://www.w3.org/2000/01/rdf-schema#label> "cittern" .
+<http://data.carnegiehall.org/instruments/1058> <http://www.w3.org/2000/01/rdf-schema#label> "chansonnier" .
+<http://data.carnegiehall.org/instruments/1437> <http://www.w3.org/2000/01/rdf-schema#label> "afrobeat band" .
+<http://data.carnegiehall.org/instruments/1094> <http://www.w3.org/2000/01/rdf-schema#label> "sequencer" .
+<http://data.carnegiehall.org/instruments/1200> <http://www.w3.org/2000/01/rdf-schema#label> "contrabass flute" .
+<http://data.carnegiehall.org/instruments/1061> <http://www.w3.org/2000/01/rdf-schema#label> "duduk" .
+<http://data.carnegiehall.org/instruments/429> <http://www.w3.org/2000/01/rdf-schema#label> "violone" .
+<http://data.carnegiehall.org/instruments/1315> <http://www.w3.org/2000/01/rdf-schema#label> "diamond marimba" .
+<http://data.carnegiehall.org/instruments/371> <http://www.w3.org/2000/01/rdf-schema#label> "ringing gusli" .
+<http://data.carnegiehall.org/instruments/1379> <http://www.w3.org/2000/01/rdf-schema#label> "karimba" .
+<http://data.carnegiehall.org/instruments/480> <http://www.w3.org/2000/01/rdf-schema#label> "accordion" .
+<http://data.carnegiehall.org/instruments/425> <http://www.w3.org/2000/01/rdf-schema#label> "castanets" .
+<http://data.carnegiehall.org/instruments/1210> <http://www.w3.org/2000/01/rdf-schema#label> "Viola pomposa" .
+<http://data.carnegiehall.org/instruments/334> <http://www.w3.org/2000/01/rdf-schema#label> "opera company" .
+<http://data.carnegiehall.org/instruments/1109> <http://www.w3.org/2000/01/rdf-schema#label> "n'goni" .
+<http://data.carnegiehall.org/instruments/130> <http://www.w3.org/2000/01/rdf-schema#label> "sprechstimme" .
+<http://data.carnegiehall.org/instruments/84> <http://www.w3.org/2000/01/rdf-schema#label> "domra" .
+<http://data.carnegiehall.org/instruments/1300> <http://www.w3.org/2000/01/rdf-schema#label> "kontra" .
+<http://data.carnegiehall.org/instruments/697> <http://www.w3.org/2000/01/rdf-schema#label> "bayan" .
+<http://data.carnegiehall.org/instruments/710> <http://www.w3.org/2000/01/rdf-schema#label> "halil" .
+<http://data.carnegiehall.org/instruments/524> <http://www.w3.org/2000/01/rdf-schema#label> "gong" .
+<http://data.carnegiehall.org/instruments/1079> <http://www.w3.org/2000/01/rdf-schema#label> "MIDI flute" .
+<http://data.carnegiehall.org/instruments/1183> <http://www.w3.org/2000/01/rdf-schema#label> "karinyan" .
+<http://data.carnegiehall.org/instruments/651> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese tree bell" .
+<http://data.carnegiehall.org/instruments/1068> <http://www.w3.org/2000/01/rdf-schema#label> "adapted viola" .
+<http://data.carnegiehall.org/instruments/1440> <http://www.w3.org/2000/01/rdf-schema#label> "alto viol" .
+<http://data.carnegiehall.org/instruments/1383> <http://www.w3.org/2000/01/rdf-schema#label> "iPad" .
+<http://data.carnegiehall.org/instruments/1130> <http://www.w3.org/2000/01/rdf-schema#label> "e-flat cornet" .
+<http://data.carnegiehall.org/instruments/438> <http://www.w3.org/2000/01/rdf-schema#label> "toy piano" .
+<http://data.carnegiehall.org/instruments/314> <http://www.w3.org/2000/01/rdf-schema#label> "celesta" .
+<http://data.carnegiehall.org/instruments/821> <http://www.w3.org/2000/01/rdf-schema#label> "e-flat clarinet" .
+<http://data.carnegiehall.org/instruments/958> <http://www.w3.org/2000/01/rdf-schema#label> "taegum" .
+<http://data.carnegiehall.org/instruments/933> <http://www.w3.org/2000/01/rdf-schema#label> "quinton" .
+<http://data.carnegiehall.org/instruments/505> <http://www.w3.org/2000/01/rdf-schema#label> "piccolo clarinet" .
+<http://data.carnegiehall.org/instruments/67> <http://www.w3.org/2000/01/rdf-schema#label> "bass sackbut" .
+<http://data.carnegiehall.org/instruments/557> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese tambourine" .
+<http://data.carnegiehall.org/instruments/460> <http://www.w3.org/2000/01/rdf-schema#label> "soprano saxophone" .
+<http://data.carnegiehall.org/instruments/336> <http://www.w3.org/2000/01/rdf-schema#label> "riq" .
+<http://data.carnegiehall.org/instruments/1367> <http://www.w3.org/2000/01/rdf-schema#label> "hip-hop group" .
+<http://data.carnegiehall.org/instruments/441> <http://www.w3.org/2000/01/rdf-schema#label> "baroque cello" .
+<http://data.carnegiehall.org/instruments/1428> <http://www.w3.org/2000/01/rdf-schema#label> "mbalax band" .
+<http://data.carnegiehall.org/instruments/886> <http://www.w3.org/2000/01/rdf-schema#label> "puppeteer" .
+<http://data.carnegiehall.org/instruments/1246> <http://www.w3.org/2000/01/rdf-schema#label> "gabgubi" .
+<http://data.carnegiehall.org/instruments/1137> <http://www.w3.org/2000/01/rdf-schema#label> "turntable" .
+<http://data.carnegiehall.org/instruments/943> <http://www.w3.org/2000/01/rdf-schema#label> "horse hooves" .
+<http://data.carnegiehall.org/instruments/1168> <http://www.w3.org/2000/01/rdf-schema#label> "jing" .
+<http://data.carnegiehall.org/instruments/1453> <http://www.w3.org/2000/01/rdf-schema#label> "eurythmy" .
+<http://data.carnegiehall.org/instruments/1063> <http://www.w3.org/2000/01/rdf-schema#label> "barbershop chorus" .
+<http://data.carnegiehall.org/instruments/1112> <http://www.w3.org/2000/01/rdf-schema#label> "7-string guitar" .
+<http://data.carnegiehall.org/instruments/75> <http://www.w3.org/2000/01/rdf-schema#label> "bonang" .
+<http://data.carnegiehall.org/instruments/163> <http://www.w3.org/2000/01/rdf-schema#label> "rattle" .
+<http://data.carnegiehall.org/instruments/1360> <http://www.w3.org/2000/01/rdf-schema#label> "music ensemble" .
+<http://data.carnegiehall.org/instruments/1164> <http://www.w3.org/2000/01/rdf-schema#label> "yatga" .
+<http://data.carnegiehall.org/instruments/875> <http://www.w3.org/2000/01/rdf-schema#label> "balafon" .
+<http://data.carnegiehall.org/instruments/1298> <http://www.w3.org/2000/01/rdf-schema#label> "sanshin" .
+<http://data.carnegiehall.org/instruments/1325> <http://www.w3.org/2000/01/rdf-schema#label> "horn section" .
+<http://data.carnegiehall.org/instruments/1192> <http://www.w3.org/2000/01/rdf-schema#label> "balaban" .
+<http://data.carnegiehall.org/instruments/1188> <http://www.w3.org/2000/01/rdf-schema#label> "stones" .
+<http://data.carnegiehall.org/instruments/194> <http://www.w3.org/2000/01/rdf-schema#label> "recorder" .
+<http://data.carnegiehall.org/instruments/644> <http://www.w3.org/2000/01/rdf-schema#label> "electric organ" .
+<http://data.carnegiehall.org/instruments/1213> <http://www.w3.org/2000/01/rdf-schema#label> "haute-contre" .
+<http://data.carnegiehall.org/instruments/847> <http://www.w3.org/2000/01/rdf-schema#label> "treble viol" .
+<http://data.carnegiehall.org/instruments/1416> <http://www.w3.org/2000/01/rdf-schema#label> "rara band" .
+<http://data.carnegiehall.org/instruments/494> <http://www.w3.org/2000/01/rdf-schema#label> "dehol" .
+<http://data.carnegiehall.org/instruments/1419> <http://www.w3.org/2000/01/rdf-schema#label> "string band" .
+<http://data.carnegiehall.org/instruments/642> <http://www.w3.org/2000/01/rdf-schema#label> "handbell" .
+<http://data.carnegiehall.org/instruments/632> <http://www.w3.org/2000/01/rdf-schema#label> "musical saw" .
+<http://data.carnegiehall.org/instruments/434> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese temple bells" .
+<http://data.carnegiehall.org/instruments/630> <http://www.w3.org/2000/01/rdf-schema#label> "fencer" .
+<http://data.carnegiehall.org/instruments/1396> <http://www.w3.org/2000/01/rdf-schema#label> "jug" .
+<http://data.carnegiehall.org/instruments/250> <http://www.w3.org/2000/01/rdf-schema#label> "string quintet" .
+<http://data.carnegiehall.org/instruments/1321> <http://www.w3.org/2000/01/rdf-schema#label> "sackbut" .
+<http://data.carnegiehall.org/instruments/1189> <http://www.w3.org/2000/01/rdf-schema#label> "painter" .
+<http://data.carnegiehall.org/instruments/1310> <http://www.w3.org/2000/01/rdf-schema#label> "harmonic canon" .
+<http://data.carnegiehall.org/instruments/871> <http://www.w3.org/2000/01/rdf-schema#label> "reader" .
+<http://data.carnegiehall.org/instruments/783> <http://www.w3.org/2000/01/rdf-schema#label> "piano" .
+<http://data.carnegiehall.org/instruments/1391> <http://www.w3.org/2000/01/rdf-schema#label> "puppeteers" .
+<http://data.carnegiehall.org/instruments/1340> <http://www.w3.org/2000/01/rdf-schema#label> "xapchyk" .
+<http://data.carnegiehall.org/instruments/253> <http://www.w3.org/2000/01/rdf-schema#label> "acrobatic team" .
+<http://data.carnegiehall.org/instruments/1097> <http://www.w3.org/2000/01/rdf-schema#label> "endongo" .
+<http://data.carnegiehall.org/instruments/1134> <http://www.w3.org/2000/01/rdf-schema#label> "pianola" .
+<http://data.carnegiehall.org/instruments/1204> <http://www.w3.org/2000/01/rdf-schema#label> "tav shvi" .
+<http://data.carnegiehall.org/instruments/954> <http://www.w3.org/2000/01/rdf-schema#label> "uilleann pipes" .
+<http://data.carnegiehall.org/instruments/107> <http://www.w3.org/2000/01/rdf-schema#label> "tambourine" .
+<http://data.carnegiehall.org/instruments/698> <http://www.w3.org/2000/01/rdf-schema#label> "gaohu" .
+<http://data.carnegiehall.org/instruments/147> <http://www.w3.org/2000/01/rdf-schema#label> "moderator" .
+<http://data.carnegiehall.org/instruments/1380> <http://www.w3.org/2000/01/rdf-schema#label> "cimbasso" .
+<http://data.carnegiehall.org/instruments/1405> <http://www.w3.org/2000/01/rdf-schema#label> "athanatos" .
+<http://data.carnegiehall.org/instruments/1113> <http://www.w3.org/2000/01/rdf-schema#label> "tenor guitar" .
+<http://data.carnegiehall.org/instruments/318> <http://www.w3.org/2000/01/rdf-schema#label> "cimbalom" .
+<http://data.carnegiehall.org/instruments/362> <http://www.w3.org/2000/01/rdf-schema#label> "ballet dancer" .
+<http://data.carnegiehall.org/instruments/1060> <http://www.w3.org/2000/01/rdf-schema#label> "tutek" .
+<http://data.carnegiehall.org/instruments/122> <http://www.w3.org/2000/01/rdf-schema#label> "mandolin" .
+<http://data.carnegiehall.org/instruments/757> <http://www.w3.org/2000/01/rdf-schema#label> "bass trombone" .
+<http://data.carnegiehall.org/instruments/232> <http://www.w3.org/2000/01/rdf-schema#label> "israj" .
+<http://data.carnegiehall.org/instruments/26> <http://www.w3.org/2000/01/rdf-schema#label> "concertina" .
+<http://data.carnegiehall.org/instruments/1423> <http://www.w3.org/2000/01/rdf-schema#label> "merengue band" .
+<http://data.carnegiehall.org/instruments/684> <http://www.w3.org/2000/01/rdf-schema#label> "glockenspiel" .
+<http://data.carnegiehall.org/instruments/747> <http://www.w3.org/2000/01/rdf-schema#label> "tenor trombone" .
+<http://data.carnegiehall.org/instruments/696> <http://www.w3.org/2000/01/rdf-schema#label> "kong toch" .
+<http://data.carnegiehall.org/instruments/1180> <http://www.w3.org/2000/01/rdf-schema#label> "hyper-accordion" .
+<http://data.carnegiehall.org/instruments/1237> <http://www.w3.org/2000/01/rdf-schema#label> "bass melodica" .
+<http://data.carnegiehall.org/instruments/305> <http://www.w3.org/2000/01/rdf-schema#label> "ching" .
+<http://data.carnegiehall.org/instruments/497> <http://www.w3.org/2000/01/rdf-schema#label> "roneat" .
+<http://data.carnegiehall.org/instruments/61> <http://www.w3.org/2000/01/rdf-schema#label> "soprano" .
+<http://data.carnegiehall.org/instruments/1351> <http://www.w3.org/2000/01/rdf-schema#label> "jug band" .
+<http://data.carnegiehall.org/instruments/457> <http://www.w3.org/2000/01/rdf-schema#label> "bombo" .
+<http://data.carnegiehall.org/instruments/806> <http://www.w3.org/2000/01/rdf-schema#label> "vocal ensemble" .
+<http://data.carnegiehall.org/instruments/150> <http://www.w3.org/2000/01/rdf-schema#label> "bugle" .
+<http://data.carnegiehall.org/instruments/1286> <http://www.w3.org/2000/01/rdf-schema#label> "96-tone harp" .
+<http://data.carnegiehall.org/instruments/675> <http://www.w3.org/2000/01/rdf-schema#label> "sousaphone" .
+<http://data.carnegiehall.org/instruments/1292> <http://www.w3.org/2000/01/rdf-schema#label> "dan tranh" .
+<http://data.carnegiehall.org/instruments/1256> <http://www.w3.org/2000/01/rdf-schema#label> "doyra" .
+<http://data.carnegiehall.org/instruments/977> <http://www.w3.org/2000/01/rdf-schema#label> "balalaika orchestra" .
+<http://data.carnegiehall.org/instruments/1291> <http://www.w3.org/2000/01/rdf-schema#label> "electric cello" .
+<http://data.carnegiehall.org/instruments/297> <http://www.w3.org/2000/01/rdf-schema#label> "sarod" .
+<http://data.carnegiehall.org/instruments/639> <http://www.w3.org/2000/01/rdf-schema#label> "congas" .
+<http://data.carnegiehall.org/instruments/1105> <http://www.w3.org/2000/01/rdf-schema#label> "clavier a lumieres" .
+<http://data.carnegiehall.org/instruments/155> <http://www.w3.org/2000/01/rdf-schema#label> "violino piccolo" .
+<http://data.carnegiehall.org/instruments/78> <http://www.w3.org/2000/01/rdf-schema#label> "veena" .
+<http://data.carnegiehall.org/instruments/1057> <http://www.w3.org/2000/01/rdf-schema#label> "drum and bugle corps" .
+<http://data.carnegiehall.org/instruments/412> <http://www.w3.org/2000/01/rdf-schema#label> "piano quartet" .
+<http://data.carnegiehall.org/instruments/143> <http://www.w3.org/2000/01/rdf-schema#label> "French horn" .
+<http://data.carnegiehall.org/instruments/271> <http://www.w3.org/2000/01/rdf-schema#label> "bass oboe" .
+<http://data.carnegiehall.org/instruments/1248> <http://www.w3.org/2000/01/rdf-schema#label> "quijada" .
+<http://data.carnegiehall.org/instruments/403> <http://www.w3.org/2000/01/rdf-schema#label> "gendèr" .
+<http://data.carnegiehall.org/instruments/402> <http://www.w3.org/2000/01/rdf-schema#label> "Hungarian cymbal" .
+<http://data.carnegiehall.org/instruments/496> <http://www.w3.org/2000/01/rdf-schema#label> "sign language interpreter" .
+<http://data.carnegiehall.org/instruments/501> <http://www.w3.org/2000/01/rdf-schema#label> "flamenco dancer" .
+<http://data.carnegiehall.org/instruments/280> <http://www.w3.org/2000/01/rdf-schema#label> "anvil" .
+<http://data.carnegiehall.org/instruments/1290> <http://www.w3.org/2000/01/rdf-schema#label> "buzuq" .
+<http://data.carnegiehall.org/instruments/186> <http://www.w3.org/2000/01/rdf-schema#label> "sruti" .
+<http://data.carnegiehall.org/instruments/1215> <http://www.w3.org/2000/01/rdf-schema#label> "string sextet" .
+<http://data.carnegiehall.org/instruments/592> <http://www.w3.org/2000/01/rdf-schema#label> "drum major" .
+<http://data.carnegiehall.org/instruments/619> <http://www.w3.org/2000/01/rdf-schema#label> "storyteller" .
+<http://data.carnegiehall.org/instruments/37> <http://www.w3.org/2000/01/rdf-schema#label> "portative" .
+<http://data.carnegiehall.org/instruments/1221> <http://www.w3.org/2000/01/rdf-schema#label> "double guitar" .
+<http://data.carnegiehall.org/instruments/1387> <http://www.w3.org/2000/01/rdf-schema#label> "acrobat" .
+<http://data.carnegiehall.org/instruments/237> <http://www.w3.org/2000/01/rdf-schema#label> "brass band" .
+<http://data.carnegiehall.org/instruments/1400> <http://www.w3.org/2000/01/rdf-schema#label> "Kathak dancer" .
+<http://data.carnegiehall.org/instruments/1076> <http://www.w3.org/2000/01/rdf-schema#label> "circus" .
+<http://data.carnegiehall.org/instruments/593> <http://www.w3.org/2000/01/rdf-schema#label> "treble cornetto" .
+<http://data.carnegiehall.org/instruments/979> <http://www.w3.org/2000/01/rdf-schema#label> "grijutian" .
+<http://data.carnegiehall.org/instruments/125> <http://www.w3.org/2000/01/rdf-schema#label> "soprano recorder" .
+<http://data.carnegiehall.org/instruments/272> <http://www.w3.org/2000/01/rdf-schema#label> "oboe" .
+<http://data.carnegiehall.org/instruments/1171> <http://www.w3.org/2000/01/rdf-schema#label> "muezzin" .
+<http://data.carnegiehall.org/instruments/819> <http://www.w3.org/2000/01/rdf-schema#label> "guanzi" .
+<http://data.carnegiehall.org/instruments/1165> <http://www.w3.org/2000/01/rdf-schema#label> "waterphone" .
+<http://data.carnegiehall.org/instruments/867> <http://www.w3.org/2000/01/rdf-schema#label> "finger whistler" .
+<http://data.carnegiehall.org/instruments/705> <http://www.w3.org/2000/01/rdf-schema#label> "theater group" .
+<http://data.carnegiehall.org/instruments/370> <http://www.w3.org/2000/01/rdf-schema#label> "percussion ensemble" .
+<http://data.carnegiehall.org/instruments/290> <http://www.w3.org/2000/01/rdf-schema#label> "tin whistle" .
+<http://data.carnegiehall.org/instruments/493> <http://www.w3.org/2000/01/rdf-schema#label> "bass guitar" .
+<http://data.carnegiehall.org/instruments/366> <http://www.w3.org/2000/01/rdf-schema#label> "krar" .
+<http://data.carnegiehall.org/instruments/746> <http://www.w3.org/2000/01/rdf-schema#label> "contralto" .
+<http://data.carnegiehall.org/instruments/753> <http://www.w3.org/2000/01/rdf-schema#label> "taiko" .
+<http://data.carnegiehall.org/instruments/1240> <http://www.w3.org/2000/01/rdf-schema#label> "marimba lumina" .
+<http://data.carnegiehall.org/instruments/1285> <http://www.w3.org/2000/01/rdf-schema#label> "garifuna drum" .
+<http://data.carnegiehall.org/instruments/549> <http://www.w3.org/2000/01/rdf-schema#label> "alto balalaika" .
+<http://data.carnegiehall.org/instruments/151> <http://www.w3.org/2000/01/rdf-schema#label> "comedian" .
+<http://data.carnegiehall.org/instruments/375> <http://www.w3.org/2000/01/rdf-schema#label> "mrdangam" .
+<http://data.carnegiehall.org/instruments/482> <http://www.w3.org/2000/01/rdf-schema#label> "Japanese bowl" .
+<http://data.carnegiehall.org/instruments/473> <http://www.w3.org/2000/01/rdf-schema#label> "ocarina" .
+<http://data.carnegiehall.org/instruments/752> <http://www.w3.org/2000/01/rdf-schema#label> "tombak" .
+<http://data.carnegiehall.org/instruments/1209> <http://www.w3.org/2000/01/rdf-schema#label> "hulusi" .
+<http://data.carnegiehall.org/instruments/56> <http://www.w3.org/2000/01/rdf-schema#label> "bongo drums" .
+<http://data.carnegiehall.org/instruments/1314> <http://www.w3.org/2000/01/rdf-schema#label> "boo" .
+<http://data.carnegiehall.org/instruments/231> <http://www.w3.org/2000/01/rdf-schema#label> "gayageum" .
+<http://data.carnegiehall.org/instruments/1005> <http://www.w3.org/2000/01/rdf-schema#label> "bluegrass band" .
+<http://data.carnegiehall.org/instruments/884> <http://www.w3.org/2000/01/rdf-schema#label> "chirimia" .
+<http://data.carnegiehall.org/instruments/1451> <http://www.w3.org/2000/01/rdf-schema#label> "yueqin" .
+<http://data.carnegiehall.org/instruments/820> <http://www.w3.org/2000/01/rdf-schema#label> "bass horn" .
+<http://data.carnegiehall.org/instruments/585> <http://www.w3.org/2000/01/rdf-schema#label> "keyboard" .
+<http://data.carnegiehall.org/instruments/408> <http://www.w3.org/2000/01/rdf-schema#label> "yodeler" .
+<http://data.carnegiehall.org/instruments/1080> <http://www.w3.org/2000/01/rdf-schema#label> "comb" .
+<http://data.carnegiehall.org/instruments/1447> <http://www.w3.org/2000/01/rdf-schema#label> "disco band" .
+<http://data.carnegiehall.org/instruments/1088> <http://www.w3.org/2000/01/rdf-schema#label> "finger-board theremin" .
+<http://data.carnegiehall.org/instruments/799> <http://www.w3.org/2000/01/rdf-schema#label> "transverse flute" .
+<http://data.carnegiehall.org/instruments/980> <http://www.w3.org/2000/01/rdf-schema#label> "hand clapping" .
+<http://data.carnegiehall.org/instruments/928> <http://www.w3.org/2000/01/rdf-schema#label> "kayagum" .
+<http://data.carnegiehall.org/instruments/1083> <http://www.w3.org/2000/01/rdf-schema#label> "tape delay" .
+<http://data.carnegiehall.org/instruments/1202> <http://www.w3.org/2000/01/rdf-schema#label> "blul" .
+<http://data.carnegiehall.org/instruments/1066> <http://www.w3.org/2000/01/rdf-schema#label> "tin oboe" .
+<http://data.carnegiehall.org/instruments/175> <http://www.w3.org/2000/01/rdf-schema#label> "esraj" .
+<http://data.carnegiehall.org/instruments/215> <http://www.w3.org/2000/01/rdf-schema#label> "string quartet" .
+<http://data.carnegiehall.org/instruments/1047> <http://www.w3.org/2000/01/rdf-schema#label> "electric mandolin" .
+<http://data.carnegiehall.org/instruments/911> <http://www.w3.org/2000/01/rdf-schema#label> "harmonica" .
+<http://data.carnegiehall.org/instruments/1399> <http://www.w3.org/2000/01/rdf-schema#label> "soul band" .
+<http://data.carnegiehall.org/instruments/1302> <http://www.w3.org/2000/01/rdf-schema#label> "Turkish drum" .
+<http://data.carnegiehall.org/instruments/1424> <http://www.w3.org/2000/01/rdf-schema#label> "mambo band" .
+<http://data.carnegiehall.org/instruments/1167> <http://www.w3.org/2000/01/rdf-schema#label> "yanggeum" .
+<http://data.carnegiehall.org/instruments/1375> <http://www.w3.org/2000/01/rdf-schema#label> "performing dogs" .
+<http://data.carnegiehall.org/instruments/660> <http://www.w3.org/2000/01/rdf-schema#label> "tap dancer" .
+<http://data.carnegiehall.org/instruments/1064> <http://www.w3.org/2000/01/rdf-schema#label> "chromolodeon" .
+<http://data.carnegiehall.org/instruments/117> <http://www.w3.org/2000/01/rdf-schema#label> "duo" .
+<http://data.carnegiehall.org/instruments/805> <http://www.w3.org/2000/01/rdf-schema#label> "khim" .
+<http://data.carnegiehall.org/instruments/1303> <http://www.w3.org/2000/01/rdf-schema#label> "violin 2" .
+<http://data.carnegiehall.org/instruments/1077> <http://www.w3.org/2000/01/rdf-schema#label> "MIDI piano" .
+<http://data.carnegiehall.org/instruments/220> <http://www.w3.org/2000/01/rdf-schema#label> "zoomoozophone" .
+<http://data.carnegiehall.org/instruments/817> <http://www.w3.org/2000/01/rdf-schema#label> "girls chorus" .
+<http://data.carnegiehall.org/instruments/923> <http://www.w3.org/2000/01/rdf-schema#label> "performing chimpanzee" .
+<http://data.carnegiehall.org/instruments/238> <http://www.w3.org/2000/01/rdf-schema#label> "oboe da caccia" .
+<http://data.carnegiehall.org/instruments/174> <http://www.w3.org/2000/01/rdf-schema#label> "impressionist" .
+<http://data.carnegiehall.org/instruments/296> <http://www.w3.org/2000/01/rdf-schema#label> "cornemuse" .
+<http://data.carnegiehall.org/instruments/750> <http://www.w3.org/2000/01/rdf-schema#label> "pipe major" .
+<http://data.carnegiehall.org/instruments/1427> <http://www.w3.org/2000/01/rdf-schema#label> "bossa nova band" .
+<http://data.carnegiehall.org/instruments/149> <http://www.w3.org/2000/01/rdf-schema#label> "ensemble" .
+<http://data.carnegiehall.org/instruments/1336> <http://www.w3.org/2000/01/rdf-schema#label> "igil" .
+<http://data.carnegiehall.org/instruments/1266> <http://www.w3.org/2000/01/rdf-schema#label> "baraban drum" .
+<http://data.carnegiehall.org/instruments/1381> <http://www.w3.org/2000/01/rdf-schema#label> "comedy team" .
+<http://data.carnegiehall.org/instruments/1114> <http://www.w3.org/2000/01/rdf-schema#label> "pandeiro" .
+<http://data.carnegiehall.org/instruments/845> <http://www.w3.org/2000/01/rdf-schema#label> "balalaika" .
+<http://data.carnegiehall.org/instruments/396> <http://www.w3.org/2000/01/rdf-schema#label> "biwa" .
+<http://data.carnegiehall.org/instruments/1322> <http://www.w3.org/2000/01/rdf-schema#label> "timbal" .
+<http://data.carnegiehall.org/instruments/1410> <http://www.w3.org/2000/01/rdf-schema#label> "salsa band" .
+<http://data.carnegiehall.org/instruments/1> <http://www.w3.org/2000/01/rdf-schema#label> "guitar" .
+<http://data.carnegiehall.org/instruments/1403> <http://www.w3.org/2000/01/rdf-schema#label> "Cretan lyra" .
+<http://data.carnegiehall.org/instruments/492> <http://www.w3.org/2000/01/rdf-schema#label> "tuba" .
+<http://data.carnegiehall.org/instruments/185> <http://www.w3.org/2000/01/rdf-schema#label> "valve trombone" .
+<http://data.carnegiehall.org/instruments/1116> <http://www.w3.org/2000/01/rdf-schema#label> "electronic percussion" .
+<http://data.carnegiehall.org/instruments/1397> <http://www.w3.org/2000/01/rdf-schema#label> "Jew's harp" .
+<http://data.carnegiehall.org/instruments/306> <http://www.w3.org/2000/01/rdf-schema#label> "tanpura" .
+<http://data.carnegiehall.org/instruments/153> <http://www.w3.org/2000/01/rdf-schema#label> "alto shawm" .
+<http://data.carnegiehall.org/instruments/951> <http://www.w3.org/2000/01/rdf-schema#label> "frame drum" .
+<http://data.carnegiehall.org/instruments/317> <http://www.w3.org/2000/01/rdf-schema#label> "bandoneon" .
+<http://data.carnegiehall.org/instruments/1412> <http://www.w3.org/2000/01/rdf-schema#label> "reggae band" .
+<http://data.carnegiehall.org/instruments/454> <http://www.w3.org/2000/01/rdf-schema#label> "woodwinds" .
+<http://data.carnegiehall.org/instruments/932> <http://www.w3.org/2000/01/rdf-schema#label> "kamayacha" .
+<http://data.carnegiehall.org/instruments/957> <http://www.w3.org/2000/01/rdf-schema#label> "piri" .
+<http://data.carnegiehall.org/instruments/541> <http://www.w3.org/2000/01/rdf-schema#label> "chamber orchestra" .
+<http://data.carnegiehall.org/instruments/981> <http://www.w3.org/2000/01/rdf-schema#label> "continuo" .
+<http://data.carnegiehall.org/instruments/1120> <http://www.w3.org/2000/01/rdf-schema#label> "guitar quartet" .
+<http://data.carnegiehall.org/instruments/741> <http://www.w3.org/2000/01/rdf-schema#label> "tro u" .
+<http://data.carnegiehall.org/instruments/1228> <http://www.w3.org/2000/01/rdf-schema#label> "dramnyen" .
+<http://data.carnegiehall.org/instruments/328> <http://www.w3.org/2000/01/rdf-schema#label> "odaiko" .
+<http://data.carnegiehall.org/instruments/1346> <http://www.w3.org/2000/01/rdf-schema#label> "fife and drum corps" .
+<http://data.carnegiehall.org/instruments/1196> <http://www.w3.org/2000/01/rdf-schema#label> "baglama" .
+<http://data.carnegiehall.org/instruments/1074> <http://www.w3.org/2000/01/rdf-schema#label> "throat singer" .
+<http://data.carnegiehall.org/instruments/1182> <http://www.w3.org/2000/01/rdf-schema#label> "bass bara" .
+<http://data.carnegiehall.org/instruments/1445> <http://www.w3.org/2000/01/rdf-schema#label> "belly dancer" .
+<http://data.carnegiehall.org/instruments/421> <http://www.w3.org/2000/01/rdf-schema#label> "bassoon" .
+<http://data.carnegiehall.org/instruments/1257> <http://www.w3.org/2000/01/rdf-schema#label> "medium bass ngoni" .
+<http://data.carnegiehall.org/instruments/1426> <http://www.w3.org/2000/01/rdf-schema#label> "samba band" .
+<http://data.carnegiehall.org/instruments/1091> <http://www.w3.org/2000/01/rdf-schema#label> "Korean flute" .
+<http://data.carnegiehall.org/instruments/1418> <http://www.w3.org/2000/01/rdf-schema#label> "pop music band" .
+<http://data.carnegiehall.org/instruments/1327> <http://www.w3.org/2000/01/rdf-schema#label> "reed organ" .
+<http://data.carnegiehall.org/instruments/331> <http://www.w3.org/2000/01/rdf-schema#label> "sarangi" .
+<http://data.carnegiehall.org/instruments/1169> <http://www.w3.org/2000/01/rdf-schema#label> "sokou" .
+<http://data.carnegiehall.org/instruments/778> <http://www.w3.org/2000/01/rdf-schema#label> "zither" .
+<http://data.carnegiehall.org/instruments/499> <http://www.w3.org/2000/01/rdf-schema#label> "saxophone quartet" .
+<http://data.carnegiehall.org/instruments/1392> <http://www.w3.org/2000/01/rdf-schema#label> "magicians" .
+<http://data.carnegiehall.org/instruments/1267> <http://www.w3.org/2000/01/rdf-schema#label> "Fender Rhodes" .
+<http://data.carnegiehall.org/instruments/114> <http://www.w3.org/2000/01/rdf-schema#label> "shofar" .
+<http://data.carnegiehall.org/instruments/1263> <http://www.w3.org/2000/01/rdf-schema#label> "batá drum" .
+<http://data.carnegiehall.org/instruments/1107> <http://www.w3.org/2000/01/rdf-schema#label> "dunun" .
+<http://data.carnegiehall.org/instruments/1159> <http://www.w3.org/2000/01/rdf-schema#label> "tsugaru-shamisen ensemble" .
+<http://data.carnegiehall.org/instruments/25> <http://www.w3.org/2000/01/rdf-schema#label> "folk dancer" .
+<http://data.carnegiehall.org/instruments/1108> <http://www.w3.org/2000/01/rdf-schema#label> "guqin" .
+<http://data.carnegiehall.org/instruments/1071> <http://www.w3.org/2000/01/rdf-schema#label> "interpreter" .
+<http://data.carnegiehall.org/instruments/1190> <http://www.w3.org/2000/01/rdf-schema#label> "superDraw" .
+<http://data.carnegiehall.org/instruments/661> <http://www.w3.org/2000/01/rdf-schema#label> "presenter" .
+<http://data.carnegiehall.org/instruments/1449> <http://www.w3.org/2000/01/rdf-schema#label> "fujara" .
+<http://data.carnegiehall.org/instruments/252> <http://www.w3.org/2000/01/rdf-schema#label> "jazz trio" .
+<http://data.carnegiehall.org/instruments/1341> <http://www.w3.org/2000/01/rdf-schema#label> "duyuglar" .
+<http://data.carnegiehall.org/instruments/91> <http://www.w3.org/2000/01/rdf-schema#label> "contrabass trombone" .
+<http://data.carnegiehall.org/instruments/1313> <http://www.w3.org/2000/01/rdf-schema#label> "bass marimba" .
+<http://data.carnegiehall.org/instruments/1166> <http://www.w3.org/2000/01/rdf-schema#label> "ajaeng" .
+<http://data.carnegiehall.org/instruments/623> <http://www.w3.org/2000/01/rdf-schema#label> "shawm" .
+<http://data.carnegiehall.org/instruments/1081> <http://www.w3.org/2000/01/rdf-schema#label> "soprano cornet" .
+<http://data.carnegiehall.org/instruments/1324> <http://www.w3.org/2000/01/rdf-schema#label> "piano quintet" .
+<http://data.carnegiehall.org/instruments/930> <http://www.w3.org/2000/01/rdf-schema#label> "kantele" .
+<http://data.carnegiehall.org/instruments/959> <http://www.w3.org/2000/01/rdf-schema#label> "magician" .
+<http://data.carnegiehall.org/instruments/1444> <http://www.w3.org/2000/01/rdf-schema#label> "rotta" .
+<http://data.carnegiehall.org/instruments/535> <http://www.w3.org/2000/01/rdf-schema#label> "novelty act" .
+<http://data.carnegiehall.org/instruments/198> <http://www.w3.org/2000/01/rdf-schema#label> "basset horn" .
+<http://data.carnegiehall.org/instruments/892> <http://www.w3.org/2000/01/rdf-schema#label> "handbell choir" .
+<http://data.carnegiehall.org/instruments/152> <http://www.w3.org/2000/01/rdf-schema#label> "pocket trumpet" .
+<http://data.carnegiehall.org/instruments/1434> <http://www.w3.org/2000/01/rdf-schema#label> "low whistle" .
+<http://data.carnegiehall.org/instruments/1006> <http://www.w3.org/2000/01/rdf-schema#label> "announcer" .
+<http://data.carnegiehall.org/instruments/1343> <http://www.w3.org/2000/01/rdf-schema#label> "murgu" .
+<http://data.carnegiehall.org/instruments/986> <http://www.w3.org/2000/01/rdf-schema#label> "lyricon" .
+<http://data.carnegiehall.org/instruments/74> <http://www.w3.org/2000/01/rdf-schema#label> "quartet" .
+<http://data.carnegiehall.org/instruments/39> <http://www.w3.org/2000/01/rdf-schema#label> "performing dog" .
+<http://data.carnegiehall.org/instruments/1436> <http://www.w3.org/2000/01/rdf-schema#label> "taiko drum ensemble" .
+<http://data.carnegiehall.org/instruments/1348> <http://www.w3.org/2000/01/rdf-schema#label> "jaltarang" .
+<http://data.carnegiehall.org/instruments/605> <http://www.w3.org/2000/01/rdf-schema#label> "cornet" .
+<http://data.carnegiehall.org/instruments/621> <http://www.w3.org/2000/01/rdf-schema#label> "orchestra" .
+<http://data.carnegiehall.org/instruments/1338> <http://www.w3.org/2000/01/rdf-schema#label> "kengirge" .
+<http://data.carnegiehall.org/instruments/636> <http://www.w3.org/2000/01/rdf-schema#label> "xylorimba" .
+<http://data.carnegiehall.org/instruments/971> <http://www.w3.org/2000/01/rdf-schema#label> "director" .
+<http://data.carnegiehall.org/instruments/518> <http://www.w3.org/2000/01/rdf-schema#label> "performing horses" .
+<http://data.carnegiehall.org/instruments/298> <http://www.w3.org/2000/01/rdf-schema#label> "otsuzumi" .
+<http://data.carnegiehall.org/instruments/1262> <http://www.w3.org/2000/01/rdf-schema#label> "zapateado" .
+<http://data.carnegiehall.org/instruments/1425> <http://www.w3.org/2000/01/rdf-schema#label> "songo band" .
+<http://data.carnegiehall.org/instruments/83> <http://www.w3.org/2000/01/rdf-schema#label> "flamenco singer" .
+<http://data.carnegiehall.org/instruments/320> <http://www.w3.org/2000/01/rdf-schema#label> "contrabass saxhorn" .
+<http://data.carnegiehall.org/instruments/1452> <http://www.w3.org/2000/01/rdf-schema#label> "saron" .
+<http://data.carnegiehall.org/instruments/1265> <http://www.w3.org/2000/01/rdf-schema#label> "marching band" .
+<http://data.carnegiehall.org/instruments/1331> <http://www.w3.org/2000/01/rdf-schema#label> "slide guitar" .
+<http://data.carnegiehall.org/instruments/755> <http://www.w3.org/2000/01/rdf-schema#label> "nabal" .
+<http://data.carnegiehall.org/instruments/1389> <http://www.w3.org/2000/01/rdf-schema#label> "juggling team" .
+<http://data.carnegiehall.org/instruments/261> <http://www.w3.org/2000/01/rdf-schema#label> "brass ensemble" .
+<http://data.carnegiehall.org/instruments/1388> <http://www.w3.org/2000/01/rdf-schema#label> "pipe band" .
+<http://data.carnegiehall.org/instruments/551> <http://www.w3.org/2000/01/rdf-schema#label> "sho" .
+<http://data.carnegiehall.org/instruments/310> <http://www.w3.org/2000/01/rdf-schema#label> "bass drum" .
+<http://data.carnegiehall.org/instruments/35> <http://www.w3.org/2000/01/rdf-schema#label> "shehnai" .
+<http://data.carnegiehall.org/instruments/72> <http://www.w3.org/2000/01/rdf-schema#label> "siku" .
+<http://data.carnegiehall.org/instruments/312> <http://www.w3.org/2000/01/rdf-schema#label> "marimba" .
+<http://data.carnegiehall.org/instruments/1251> <http://www.w3.org/2000/01/rdf-schema#label> "universal horn" .
+<http://data.carnegiehall.org/instruments/952> <http://www.w3.org/2000/01/rdf-schema#label> "roller skaters" .
+<http://data.carnegiehall.org/instruments/360> <http://www.w3.org/2000/01/rdf-schema#label> "jazz quartet" .
+<http://data.carnegiehall.org/instruments/399> <http://www.w3.org/2000/01/rdf-schema#label> "mime" .
+<http://data.carnegiehall.org/instruments/1110> <http://www.w3.org/2000/01/rdf-schema#label> "calabash" .
+<http://data.carnegiehall.org/instruments/616> <http://www.w3.org/2000/01/rdf-schema#label> "female impersonator" .
+<http://data.carnegiehall.org/instruments/1206> <http://www.w3.org/2000/01/rdf-schema#label> "Balinese percussion" .
+<http://data.carnegiehall.org/instruments/744> <http://www.w3.org/2000/01/rdf-schema#label> "rock band" .
+<http://data.carnegiehall.org/instruments/183> <http://www.w3.org/2000/01/rdf-schema#label> "jazz ensemble" .
+<http://data.carnegiehall.org/instruments/883> <http://www.w3.org/2000/01/rdf-schema#label> "burlesque dancer" .
+<http://data.carnegiehall.org/instruments/751> <http://www.w3.org/2000/01/rdf-schema#label> "chanter" .
+<http://data.carnegiehall.org/instruments/1288> <http://www.w3.org/2000/01/rdf-schema#label> "algoza" .
+<http://data.carnegiehall.org/instruments/1214> <http://www.w3.org/2000/01/rdf-schema#label> "Hardanger fiddle" .
+<http://data.carnegiehall.org/instruments/1446> <http://www.w3.org/2000/01/rdf-schema#label> "punk rock band" .
+<http://data.carnegiehall.org/instruments/991> <http://www.w3.org/2000/01/rdf-schema#label> "taishogoto ensemble" .
+<http://data.carnegiehall.org/instruments/258> <http://www.w3.org/2000/01/rdf-schema#label> "choir" .
+<http://data.carnegiehall.org/instruments/262> <http://www.w3.org/2000/01/rdf-schema#label> "jazz quintet" .
+<http://data.carnegiehall.org/instruments/745> <http://www.w3.org/2000/01/rdf-schema#label> "string orchestra" .
+<http://data.carnegiehall.org/instruments/1197> <http://www.w3.org/2000/01/rdf-schema#label> "boy treble" .
+<http://data.carnegiehall.org/instruments/1450> <http://www.w3.org/2000/01/rdf-schema#label> "roots music band" .
+<http://data.carnegiehall.org/instruments/740> <http://www.w3.org/2000/01/rdf-schema#label> "Irish step dancer" .
+<http://data.carnegiehall.org/instruments/1319> <http://www.w3.org/2000/01/rdf-schema#label> "cone gong" .
+<http://data.carnegiehall.org/instruments/763> <http://www.w3.org/2000/01/rdf-schema#label> "tenor Wagner tuba" .
+<http://data.carnegiehall.org/instruments/1156> <http://www.w3.org/2000/01/rdf-schema#label> "video artist" .
+<http://data.carnegiehall.org/instruments/946> <http://www.w3.org/2000/01/rdf-schema#label> "speaker" .
+<http://data.carnegiehall.org/instruments/254> <http://www.w3.org/2000/01/rdf-schema#label> "ventriloquist" .
+<http://data.carnegiehall.org/instruments/116> <http://www.w3.org/2000/01/rdf-schema#label> "trio" .
+<http://data.carnegiehall.org/instruments/1411> <http://www.w3.org/2000/01/rdf-schema#label> "blues band" .
+<http://data.carnegiehall.org/instruments/1075> <http://www.w3.org/2000/01/rdf-schema#label> "country band" .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://foo.org/>.
+
+:a a void:Dataset, hydra:Collection;
+    void:subset <http://robertmhudson.github.io/ldstatic/ldfsp9ac796fdb3/c1f82ad26a/447b600262/114a19983bo.ttl>;
+    void:uriLookupEndpoint "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:search _:triplePattern.
+_:triplePattern hydra:template "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:mapping _:subject, _:predicate, _:object.
+_:subject hydra:variable "s";
+    hydra:property rdf:subject.
+_:predicate hydra:variable "p";
+    hydra:property rdf:predicate.
+_:object hydra:variable "o";
+    hydra:property rdf:object
+    .
+
+<http://robertmhudson.github.io/ldstatic/ldfsp9ac796fdb3/c1f82ad26a/447b600262/114a19983bo.ttl> 
+    a hydra:Collection, hydra:PagedCollection;
+    dcterms:source :a;
+    hydra:totalItems "869"^^xsd:integer;
+    void:triples "869"^^xsd:integer;
+    hydra:itemsPerPage "869"^^xsd:integer
+    .

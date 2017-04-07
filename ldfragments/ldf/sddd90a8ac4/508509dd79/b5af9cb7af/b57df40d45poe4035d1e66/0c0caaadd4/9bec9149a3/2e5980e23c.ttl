@@ -1,0 +1,30 @@
+<http://data.carnegiehall.org/instruments/368> <http://www.w3.org/2000/01/rdf-schema#label> "boys chorus" .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://foo.org/>.
+
+:a a void:Dataset, hydra:Collection;
+    void:subset <http://robertmhudson.github.io/ldstatic/ldfsddd90a8ac4/508509dd79/b5af9cb7af/b57df40d45poe4035d1e66/0c0caaadd4/9bec9149a3/2e5980e23c.ttl>;
+    void:uriLookupEndpoint "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:search _:triplePattern.
+_:triplePattern hydra:template "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:mapping _:subject, _:predicate, _:object.
+_:subject hydra:variable "s";
+    hydra:property rdf:subject.
+_:predicate hydra:variable "p";
+    hydra:property rdf:predicate.
+_:object hydra:variable "o";
+    hydra:property rdf:object
+    .
+
+<http://robertmhudson.github.io/ldstatic/ldfsddd90a8ac4/508509dd79/b5af9cb7af/b57df40d45poe4035d1e66/0c0caaadd4/9bec9149a3/2e5980e23c.ttl> 
+    a hydra:Collection, hydra:PagedCollection;
+    dcterms:source :a;
+    hydra:totalItems "1"^^xsd:integer;
+    void:triples "1"^^xsd:integer;
+    hydra:itemsPerPage "1"^^xsd:integer
+    .

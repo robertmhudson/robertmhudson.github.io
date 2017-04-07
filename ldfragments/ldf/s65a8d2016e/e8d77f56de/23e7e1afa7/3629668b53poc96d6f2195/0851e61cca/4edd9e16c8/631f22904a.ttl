@@ -1,0 +1,30 @@
+<http://data.carnegiehall.org/instruments/546> <http://www.w3.org/2000/01/rdf-schema#label> "tympanum" .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://foo.org/>.
+
+:a a void:Dataset, hydra:Collection;
+    void:subset <http://robertmhudson.github.io/ldstatic/ldfs65a8d2016e/e8d77f56de/23e7e1afa7/3629668b53poc96d6f2195/0851e61cca/4edd9e16c8/631f22904a.ttl>;
+    void:uriLookupEndpoint "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:search _:triplePattern.
+_:triplePattern hydra:template "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:mapping _:subject, _:predicate, _:object.
+_:subject hydra:variable "s";
+    hydra:property rdf:subject.
+_:predicate hydra:variable "p";
+    hydra:property rdf:predicate.
+_:object hydra:variable "o";
+    hydra:property rdf:object
+    .
+
+<http://robertmhudson.github.io/ldstatic/ldfs65a8d2016e/e8d77f56de/23e7e1afa7/3629668b53poc96d6f2195/0851e61cca/4edd9e16c8/631f22904a.ttl> 
+    a hydra:Collection, hydra:PagedCollection;
+    dcterms:source :a;
+    hydra:totalItems "1"^^xsd:integer;
+    void:triples "1"^^xsd:integer;
+    hydra:itemsPerPage "1"^^xsd:integer
+    .

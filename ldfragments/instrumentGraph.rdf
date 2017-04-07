@@ -1,0 +1,3311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/668">
+    <rdfs:label>quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1198">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>glass harmonica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1104">
+    <rdfs:label>wind quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/879">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>chimes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/367">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tambura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/224">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tárogató</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1185">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tapan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1184">
+    <rdfs:label>tchatchara</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1062">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>morin khuur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1034">
+    <rdfs:label>electronics</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/42">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>contrabassoon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/240">
+    <rdfs:label>theremin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1407">
+    <rdfs:label>gospel music band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/118">
+    <rdfs:label>bamboo flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/121">
+    <rdfs:label>band leader</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/502">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ichigenkin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/104">
+    <rdfs:label>snare drum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1186">
+    <rdfs:label>saxello</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/268">
+    <rdfs:label>hula dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/374">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hosho</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1406">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>konghou</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1373">
+    <rdfs:label>kobyz</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/700">
+    <rdfs:label>hypnotist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1070">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kithara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/299">
+    <rdfs:label>countertenor</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/887">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>psaltery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/292">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto sackbut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/301">
+    <rdfs:label>haegeum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1247">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>jarana</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/62">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tenor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/907">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Chinese cymbals</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/181">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dizi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/552">
+    <rdfs:label>contrabass clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/939">
+    <rdfs:label>electric 6-string bass</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1344">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bouzouki guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1258">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass ngoni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1334">
+    <rdfs:label>capoeira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/618">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Lakota Sioux courting flute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1142">
+    <rdfs:label>sopranino recorder</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/68">
+    <rdfs:label>cantor</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1276">
+    <rdfs:label>septet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1212">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>box</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/335">
+    <rdfs:label>taus</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/978">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baritone horn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/30">
+    <rdfs:label>ukulele</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1195">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fx</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/372">
+    <rdfs:label>double bass</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/445">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>vielle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/76">
+    <rdfs:label>dobro</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/167">
+    <rdfs:label>maracas</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/626">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>archlute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1442">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>añafil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/111">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>panpipes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1384">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tammorra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/926">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>yokobue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1342">
+    <rdfs:label>shöör</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/180">
+    <rdfs:label>sanxian</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/349">
+    <rdfs:label>vocalist</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/640">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>flexatone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/956">
+    <rdfs:label>bombard</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1353">
+    <rdfs:label>stick fighters</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1369">
+    <rdfs:label>microtonal keyboard</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1421">
+    <rdfs:label>debate team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/706">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1154">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gaita</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1205">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>pku</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/41">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto trombone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1333">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dilruba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/511">
+    <rdfs:label>heckelphone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1239">
+    <rdfs:label>toy glockenspiel</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/852">
+    <rdfs:label>xiao</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1131">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>b-flat cornet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1293">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dan bau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/294">
+    <rdfs:label>baroque oboe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/80">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shoji</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/242">
+    <rdfs:label>bass trumpet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1208">
+    <rdfs:label>zhongruan</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1101">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>darabukka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/112">
+    <rdfs:label>natural norn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/798">
+    <rdfs:label>boy solo unspecified</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/405">
+    <rdfs:label>lira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1122">
+    <rdfs:label>monologist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/929">
+    <rdfs:label>octet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/71">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bagpipes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/14">
+    <rdfs:label>antique cymbals</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/620">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hirtenschalmei</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/743">
+    <rdfs:label>shamisen</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1393">
+    <rdfs:label>zerbaghali</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/463">
+    <rdfs:label>trumpet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/584">
+    <rdfs:label>rhaita</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/742">
+    <rdfs:label>tanso</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/851">
+    <rdfs:label>changgo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/483">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sarrusophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1279">
+    <rdfs:label>banbou</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/339">
+    <rdfs:label>unspecified voice</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1377">
+    <rdfs:label>umhube</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1132">
+    <rdfs:label>b-flat bass horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1092">
+    <rdfs:label>claviola</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1295">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>derbakki</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/255">
+    <rdfs:label>chamber ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1337">
+    <rdfs:label>doshpuluur</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1136">
+    <rdfs:label>guzheng</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/558">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>timbales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1232">
+    <rdfs:label>timple</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1127">
+    <rdfs:label>cabasa</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/73">
+    <rdfs:label>dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1361">
+    <rdfs:label>cumbus</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1147">
+    <rdfs:label>garmon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/333">
+    <rdfs:label>accordion band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1148">
+    <rdfs:label>sopilka</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1115">
+    <rdfs:label>quadrachord</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1301">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gardon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/760">
+    <rdfs:label>cymbals</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/85">
+    <rdfs:label>bass saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1086">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alphorn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/43">
+    <rdfs:label>electric violin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1098">
+    <rdfs:label>adungu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1216">
+    <rdfs:label>whirling dervish</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1409">
+    <rdfs:label>guira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/578">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tsuzumi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/800">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tenor sackbut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/594">
+    <rdfs:label>bottles</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/439">
+    <rdfs:label>conductor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/969">
+    <rdfs:label>bass</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/222">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shakuhachi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1431">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>guitarra morisca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1394">
+    <rdfs:label>tzouras</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/658">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tenor banjo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/540">
+    <rdfs:label>klezmer band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1284">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>lawnmower</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/671">
+    <rdfs:label>pardessus de viole</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/707">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sampler</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/365">
+    <rdfs:label>fife</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1252">
+    <rdfs:label>pangeia instrumentos</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1224">
+    <rdfs:label>keman</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/848">
+    <rdfs:label>timbre piano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1126">
+    <rdfs:label>lamellophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/664">
+    <rdfs:label>concert band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/674">
+    <rdfs:label>oud</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/677">
+    <rdfs:label>cantaor</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1241">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>famiola</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1417">
+    <rdfs:label>new wave band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1226">
+    <rdfs:label>kaval</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/893">
+    <rdfs:label>bicycle pump</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/694">
+    <rdfs:label>koto</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/327">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tabla</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/228">
+    <rdfs:label>baroque flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/235">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fiddle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/652">
+    <rdfs:label>Chinese blocks</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/16">
+    <rdfs:label>cannon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1150">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rada drums</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1244">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kandyan drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1146">
+    <rdfs:label>phonoharp</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1356">
+    <rdfs:label>calypso band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/154">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>oboe d'amore</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/363">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>clavichord</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/564">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>crotales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/676">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>viola</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/129">
+    <rdfs:label>clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1072">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>virginal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1305">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>daxophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/890">
+    <rdfs:label>baroque trumpet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/831">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>triangle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/625">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>janggo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/850">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>drums</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/29">
+    <rdfs:label>skor thom</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/401">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>womens chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/142">
+    <rdfs:label>lyre</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1141">
+    <rdfs:label>Turkish clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/234">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rondador</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/81">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ney</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/173">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bodhran</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1404">
+    <rdfs:label>tarhu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1124">
+    <rdfs:label>palmas</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/461">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>serpent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1067">
+    <rdfs:label>adapted guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/816">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tiompán</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/731">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>thin suspended cymbal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1308">
+    <rdfs:label>foot stomper</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1318">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gourd tree</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1139">
+    <rdfs:label>guitarron</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/754">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shepherd's pipe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/604">
+    <rdfs:label>brass quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/393">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>spurs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/813">
+    <rdfs:label>kokyu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1096">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>akogo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1323">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sabar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/894">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>flugelhorn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/927">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/269">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>mijwiz</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/32">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dholak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1306">
+    <rdfs:label>african harp</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1250">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/699">
+    <rdfs:label>tiple doliente</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1089">
+    <rdfs:label>jinghu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/701">
+    <rdfs:label>shinobue</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1138">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Paraguayan harp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1152">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bansuri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/409">
+    <rdfs:label>host</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1170">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kamalen ngoni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/925">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>electronic drums</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/553">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass clarinet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1245">
+    <rdfs:label>appalachian dulcimer</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/263">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Japanese Instrument</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/768">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass buccina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/38">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto recorder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/217">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>vibraphone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1157">
+    <rdfs:label>male soprano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/332">
+    <rdfs:label>guitar duo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/849">
+    <rdfs:label>12-string guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1162">
+    <rdfs:label>limbe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/178">
+    <rdfs:label>crumhorn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/171">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baritone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1354">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>button accordion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/337">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>quarter-tone piano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1329">
+    <rdfs:label>zabumba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1084">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>melodica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/330">
+    <rdfs:label>folk ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/410">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>didjeridu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/992">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cavaquinho</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/223">
+    <rdfs:label>Synclavier digital guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1065">
+    <rdfs:label>tin flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/51">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>harmonium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/218">
+    <rdfs:label>talking drum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/775">
+    <rdfs:label>baroque guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1370">
+    <rdfs:label>mariachi ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1359">
+    <rdfs:label>barbat</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/199">
+    <rdfs:label>percussion quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/758">
+    <rdfs:label>electric guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/144">
+    <rdfs:label>17-string koto</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1414">
+    <rdfs:label>house music band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1385">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>nyckelharpa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/113">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>10-string guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/247">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>finger cymbals</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/451">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto horn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/994">
+    <rdfs:label>metallophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/398">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dulcimer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/712">
+    <rdfs:label>violetta</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1253">
+    <rdfs:label>hurdy-gurdy</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/627">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dhamsa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/495">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dulcian</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/435">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>piccolo trumpet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/874">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cornett</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1335">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>berimbau</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1413">
+    <rdfs:label>zydeco band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/450">
+    <rdfs:label>bandmaster</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/373">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cembalo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/941">
+    <rdfs:label>viola da gamba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1254">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>taepyeongso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/999">
+    <rdfs:label>gospel singer</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1219">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Irish flute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1242">
+    <rdfs:label>performance artist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1269">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>mey</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1339">
+    <rdfs:label>shyngyrash</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1087">
+    <rdfs:label>dulzaina</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/491">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass-baritone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/612">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>mezzo-soprano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1069">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass recorder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1231">
+    <rdfs:label>kañjira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/66">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>boy soprano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1386">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tsimbl</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/251">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fortepiano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1229">
+    <rdfs:label>piwang</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/613">
+    <rdfs:label>kazoo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/889">
+    <rdfs:label>baryton</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/897">
+    <rdfs:label>banjo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/456">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>lap steel guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/955">
+    <rdfs:label>barbershop quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/264">
+    <rdfs:label>zurna</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/673">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>daouli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/603">
+    <rdfs:label>alto clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1222">
+    <rdfs:label>metal blocks</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1270">
+    <rdfs:label>def</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/628">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>krapeu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1234">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tilinca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/998">
+    <rdfs:label>undefined</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/711">
+    <rdfs:label>sextet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/119">
+    <rdfs:label>yangqin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/856">
+    <rdfs:label>alto flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1059">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ghaychak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1320">
+    <rdfs:label>tubular bells</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/406">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kkwaenggwari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1332">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>autoharp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/801">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kamancheh</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1153">
+    <rdfs:label>gusli</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/814">
+    <rdfs:label>baroque viola</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/27">
+    <rdfs:label>viol</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/184">
+    <rdfs:label>tape</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1448">
+    <rdfs:label>post-punk rock band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/804">
+    <rdfs:label>octavina</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1155">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>frottoir</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1121">
+    <rdfs:label>dombra</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/922">
+    <rdfs:label>bass balalaika</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1277">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tambour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1193">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>nagara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1366">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bamboo marimba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1296">
+    <rdfs:label>dutar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/837">
+    <rdfs:label>pipa</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/631">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>folk singer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1099">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>amadinda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/836">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sampho</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/537">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>qanun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1243">
+    <rdfs:label>zampoña</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/369">
+    <rdfs:label>mens chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/818">
+    <rdfs:label>duo pianists</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/315">
+    <rdfs:label>wind machine</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1220">
+    <rdfs:label>Native American rainstick</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/934">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>double keyboard piano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1230">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ghatam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/308">
+    <rdfs:label>steel drums</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/31">
+    <rdfs:label>steel guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1017">
+    <rdfs:label>rhythm and blues band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1176">
+    <rdfs:label>laptop</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1430">
+    <rdfs:label>shuitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/600">
+    <rdfs:label>lute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1287">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>quarter-tone guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1408">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tambora</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/832">
+    <rdfs:label>bellophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/82">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rabab</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/869">
+    <rdfs:label>quena</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/33">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>slack-key guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1395">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>stylophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/345">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>saxhorn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1420">
+    <rdfs:label>baton twirler</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/236">
+    <rdfs:label>ceremonial bell</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1271">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>guimbri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1255">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>saenghwang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/488">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>keyboard glockenspiel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/548">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>buhk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1372">
+    <rdfs:label>zhetygen</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1289">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>morchang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/307">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>treble shawm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/453">
+    <rdfs:label>pipe sergeant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/34">
+    <rdfs:label>nokan</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/885">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>mbira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/79">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kakko</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/993">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>flautino</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1264">
+    <rdfs:label>pifano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/924">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dap</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1100">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tambin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/555">
+    <rdfs:label>ondes Martenot</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/348">
+    <rdfs:label>corno da caccia</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1102">
+    <rdfs:label>mizhar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/448">
+    <rdfs:label>santur</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1330">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rabeca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1119">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tanbur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1439">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tambor mayor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/509">
+    <rdfs:label>panelist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1178">
+    <rdfs:label>shourangiz</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/447">
+    <rdfs:label>wind quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/259">
+    <rdfs:label>ruan</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/953">
+    <rdfs:label>theorbo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1174">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>trimba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/407">
+    <rdfs:label>ryuteki</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/233">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kartal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/197">
+    <rdfs:label>harpsichord</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1429">
+    <rdfs:label>cèilidh band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1435">
+    <rdfs:label>buk</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/666">
+    <rdfs:label>rapper</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/587">
+    <rdfs:label>whistler</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/507">
+    <rdfs:label>actor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1299">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>koboz</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/556">
+    <rdfs:label>sopranino saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/257">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>unspecified</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/243">
+    <rdfs:label>percussion</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1358">
+    <rdfs:label>tack piano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/756">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Stroviol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1225">
+    <rdfs:label>double-bell trumpet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/54">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>organ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/368">
+    <rdfs:label>boys chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/459">
+    <rdfs:label>komungo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/191">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>viola d'amore</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/60">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shaker</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/120">
+    <rdfs:label>narrator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/580">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>vihuela</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1093">
+    <rdfs:label>mind reader</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1316">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cloud-chamber bowls</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/221">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>positive organ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/170">
+    <rdfs:label>slide whistle</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/219">
+    <rdfs:label>clavilux</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/896">
+    <rdfs:label>alto saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/960">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>banhu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/189">
+    <rdfs:label>English horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/40">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>violinophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/140">
+    <rdfs:label>bouzouki</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/7">
+    <rdfs:label>glass chimes</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/322">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>guiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/534">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>mukha veena</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/455">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>komabue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/972">
+    <rdfs:label>zhonghu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/949">
+    <rdfs:label>violin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/484">
+    <rdfs:label>cello</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1201">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dhol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1149">
+    <rdfs:label>mouth bow</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1398">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bones</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1317">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tenor violin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/703">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>san-no-tsuzumi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1118">
+    <rdfs:label>gamelan ensemble</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1282">
+    <rdfs:label>fellowship advisor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/833">
+    <rdfs:label>boy alto</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1175">
+    <rdfs:label>treble</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/544">
+    <rdfs:label>suona</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1357">
+    <rdfs:label>harmonaboard</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1371">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>resonator guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/115">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cuatro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/990">
+    <rdfs:label>salamiya</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1106">
+    <rdfs:label>djembe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/156">
+    <rdfs:label>timpani</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1177">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>setar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1217">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>accordina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1129">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Venezuelan harp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/615">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baroque violin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/811">
+    <rdfs:label>zheng</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1125">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Portuguese guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1441">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass viol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1415">
+    <rdfs:label>funk rock band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/86">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>colour organ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1123">
+    <rdfs:label>cajon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/141">
+    <rdfs:label>wood flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/974">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hichiriki</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1199">
+    <rdfs:label>disc jockey</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/517">
+    <rdfs:label>claves</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/561">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>trombone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/704">
+    <rdfs:label>saz</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/177">
+    <rdfs:label>zarb</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/835">
+    <rdfs:label>spoons</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/536">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/256">
+    <rdfs:label>wind ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1307">
+    <rdfs:label>tamborn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1350">
+    <rdfs:label>wadaiko</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/812">
+    <rdfs:label>string trio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1207">
+    <rdfs:label>liuqin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/364">
+    <rdfs:label>dumbek</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/65">
+    <rdfs:label>saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1073">
+    <rdfs:label>skater</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1378">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>uhadi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1128">
+    <rdfs:label>daf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/190">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tenor saxophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/267">
+    <rdfs:label>mandola</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1328">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gusle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1158">
+    <rdfs:label>trombone quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/663">
+    <rdfs:label>prepared piano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1238">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Nord electro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/397">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>electric keyboards</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/873">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rackett</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/230">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>taisho-goto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/709">
+    <rdfs:label>tenor shawm</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/36">
+    <rdfs:label>mandocello</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/891">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Native American flute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/110">
+    <rdfs:label>Irish harp</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1376">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ghoema</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1363">
+    <rdfs:label>flute choir</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1103">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>ronroco</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1260">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>wind chimes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/862">
+    <rdfs:label>xylophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/868">
+    <rdfs:label>washboard</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/276">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>2-channel magnetic tape</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1438">
+    <rdfs:label>regal</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1143">
+    <rdfs:label>contrabass balalaika</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/329">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>charango</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/985">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tom-tom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1236">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>conch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1181">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>high bara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1283">
+    <rdfs:label>concert mentor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/586">
+    <rdfs:label>sabre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/400">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>synthesizer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/809">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Irish pipes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/179">
+    <rdfs:label>huqin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1203">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shvi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/665">
+    <rdfs:label>childrens chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/442">
+    <rdfs:label>clown</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1261">
+    <rdfs:label>guitarra de son</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/504">
+    <rdfs:label>dance group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/449">
+    <rdfs:label>rebec</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/395">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bandura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/565">
+    <rdfs:label>reciter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/975">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>slide trumpet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/188">
+    <rdfs:label>chekere</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1294">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dan t'rung</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/899">
+    <rdfs:label>baritone saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/855">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Crumar orchestrator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1211">
+    <rdfs:label>kugo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/695">
+    <rdfs:label>mechanical piano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1235">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>diseuse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1095">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>endingidi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/776">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kora</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/28">
+    <rdfs:label>tenor viol</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1268">
+    <rdfs:label>hexaphonic guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/654">
+    <rdfs:label>flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/614">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baroque lute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1312">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>surrogate kithara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1297">
+    <rdfs:label>doira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1443">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>arpa doppia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/265">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>khartal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1173">
+    <rdfs:label>sul-janggo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1133">
+    <rdfs:label>e-flat bass horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/823">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>electric piano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/963">
+    <rdfs:label>bass flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/785">
+    <rdfs:label>chain</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/582">
+    <rdfs:label>Northumbrian smallpipe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/506">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fusegane</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1144">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shekere</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/226">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>erhu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/500">
+    <rdfs:label>griot</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/64">
+    <rdfs:label>piccolo</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1365">
+    <rdfs:label>bloboy</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/607">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hi-hat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/583">
+    <rdfs:label>automobile horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/378">
+    <rdfs:label>cowbell</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/973">
+    <rdfs:label>bendir</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/386">
+    <rdfs:label>alto</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/376">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Native American drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/176">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>melodeon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1401">
+    <rdfs:label>washtub bass</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1311">
+    <rdfs:label>spoils of war</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1187">
+    <rdfs:label>pygmy flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1161">
+    <rdfs:label>khalkh</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/415">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>whistle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/546">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tympanum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/13">
+    <rdfs:label>post horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/575">
+    <rdfs:label>juggler</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/481">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>harp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/452">
+    <rdfs:label>baritone violin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/547">
+    <rdfs:label>baroque bass</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/227">
+    <rdfs:label>piano trio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/735">
+    <rdfs:label>temple block</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1163">
+    <rdfs:label>kalmik</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/99">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hand drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1151">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>petwo drums</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/581">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sheng</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/270">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>euphonium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/52">
+    <rdfs:label>luthéal</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/739">
+    <rdfs:label>cittern</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1058">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>chansonnier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1437">
+    <rdfs:label>afrobeat band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1094">
+    <rdfs:label>sequencer</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1200">
+    <rdfs:label>contrabass flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1061">
+    <rdfs:label>duduk</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/429">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>violone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1315">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>diamond marimba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/371">
+    <rdfs:label>ringing gusli</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1379">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>karimba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/480">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>accordion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/425">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>castanets</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1210">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Viola pomposa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/334">
+    <rdfs:label>opera company</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1109">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>n'goni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/130">
+    <rdfs:label>sprechstimme</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/84">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>domra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1300">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kontra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/697">
+    <rdfs:label>bayan</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/710">
+    <rdfs:label>halil</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/524">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1079">
+    <rdfs:label>MIDI flute</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1183">
+    <rdfs:label>karinyan</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/651">
+    <rdfs:label>Chinese tree bell</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1068">
+    <rdfs:label>adapted viola</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1440">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto viol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1383">
+    <rdfs:label>iPad</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1130">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>e-flat cornet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/438">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>toy piano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/314">
+    <rdfs:label>celesta</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/821">
+    <rdfs:label>e-flat clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/958">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>taegum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/933">
+    <rdfs:label>quinton</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/505">
+    <rdfs:label>piccolo clarinet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/67">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass sackbut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/557">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Chinese tambourine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/460">
+    <rdfs:label>soprano saxophone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/336">
+    <rdfs:label>riq</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1367">
+    <rdfs:label>hip-hop group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/441">
+    <rdfs:label>baroque cello</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1428">
+    <rdfs:label>mbalax band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/886">
+    <rdfs:label>puppeteer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1246">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gabgubi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1137">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>turntable</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/943">
+    <rdfs:label>horse hooves</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1168">
+    <rdfs:label>jing</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1453">
+    <rdfs:label>eurythmy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1063">
+    <rdfs:label>barbershop chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1112">
+    <rdfs:label>7-string guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/75">
+    <rdfs:label>bonang</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/163">
+    <rdfs:label>rattle</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1360">
+    <rdfs:label>music ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1164">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>yatga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/875">
+    <rdfs:label>balafon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1298">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sanshin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1325">
+    <rdfs:label>horn section</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1192">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>balaban</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1188">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>stones</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/194">
+    <rdfs:label>recorder</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/644">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>electric organ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1213">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>haute-contre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/847">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>treble viol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1416">
+    <rdfs:label>rara band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/494">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>dehol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1419">
+    <rdfs:label>string band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/642">
+    <rdfs:label>handbell</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/632">
+    <rdfs:label>musical saw</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/434">
+    <rdfs:label>Chinese temple bells</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/630">
+    <rdfs:label>fencer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1396">
+    <rdfs:label>jug</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/250">
+    <rdfs:label>string quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1321">
+    <rdfs:label>sackbut</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1189">
+    <rdfs:label>painter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1310">
+    <rdfs:label>harmonic canon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/871">
+    <rdfs:label>reader</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/783">
+    <rdfs:label>piano</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1391">
+    <rdfs:label>puppeteers</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1340">
+    <rdfs:label>xapchyk</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/253">
+    <rdfs:label>acrobatic team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1097">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>endongo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1134">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>pianola</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1204">
+    <rdfs:label>tav shvi</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/954">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>uilleann pipes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/107">
+    <rdfs:label>tambourine</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/698">
+    <rdfs:label>gaohu</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/147">
+    <rdfs:label>moderator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1380">
+    <rdfs:label>cimbasso</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1405">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>athanatos</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1113">
+    <rdfs:label>tenor guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/318">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cimbalom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/362">
+    <rdfs:label>ballet dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1060">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tutek</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/122">
+    <rdfs:label>mandolin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/757">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass trombone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/232">
+    <rdfs:label>israj</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/26">
+    <rdfs:label>concertina</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1423">
+    <rdfs:label>merengue band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/684">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>glockenspiel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/747">
+    <rdfs:label>tenor trombone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/696">
+    <rdfs:label>kong toch</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1180">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>hyper-accordion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1237">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass melodica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/305">
+    <rdfs:label>ching</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/497">
+    <rdfs:label>roneat</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/61">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>soprano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1351">
+    <rdfs:label>jug band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/457">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bombo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/806">
+    <rdfs:label>vocal ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/150">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bugle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1286">
+    <rdfs:label>96-tone harp</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/675">
+    <rdfs:label>sousaphone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1292">
+    <rdfs:label>dan tranh</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1256">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>doyra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/977">
+    <rdfs:label>balalaika orchestra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1291">
+    <rdfs:label>electric cello</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/297">
+    <rdfs:label>sarod</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/639">
+    <rdfs:label>congas</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1105">
+    <rdfs:label>clavier a lumieres</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/155">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>violino piccolo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/78">
+    <rdfs:label>veena</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1057">
+    <rdfs:label>drum and bugle corps</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/412">
+    <rdfs:label>piano quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/143">
+    <rdfs:label>French horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/271">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass oboe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1248">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>quijada</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/403">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>gendèr</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/402">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Hungarian cymbal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/496">
+    <rdfs:label>sign language interpreter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/501">
+    <rdfs:label>flamenco dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/280">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>anvil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1290">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>buzuq</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/186">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sruti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1215">
+    <rdfs:label>string sextet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/592">
+    <rdfs:label>drum major</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/619">
+    <rdfs:label>storyteller</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/37">
+    <rdfs:label>portative</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1221">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>double guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1387">
+    <rdfs:label>acrobat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/237">
+    <rdfs:label>brass band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1400">
+    <rdfs:label>Kathak dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1076">
+    <rdfs:label>circus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/593">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>treble cornetto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/979">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>grijutian</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/125">
+    <rdfs:label>soprano recorder</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/272">
+    <rdfs:label>oboe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1171">
+    <rdfs:label>muezzin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/819">
+    <rdfs:label>guanzi</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1165">
+    <rdfs:label>waterphone</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/867">
+    <rdfs:label>finger whistler</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/705">
+    <rdfs:label>theater group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/370">
+    <rdfs:label>percussion ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/290">
+    <rdfs:label>tin whistle</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/493">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/366">
+    <rdfs:label>krar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/746">
+    <rdfs:label>contralto</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/753">
+    <rdfs:label>taiko</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1240">
+    <rdfs:label>marimba lumina</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1285">
+    <rdfs:label>garifuna drum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/549">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto balalaika</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/151">
+    <rdfs:label>comedian</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/375">
+    <rdfs:label>mrdangam</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/482">
+    <rdfs:label>Japanese bowl</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/473">
+    <rdfs:label>ocarina</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/752">
+    <rdfs:label>tombak</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1209">
+    <rdfs:label>hulusi</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/56">
+    <rdfs:label>bongo drums</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1314">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>boo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/231">
+    <rdfs:label>gayageum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1005">
+    <rdfs:label>bluegrass band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/884">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>chirimia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1451">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>yueqin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/820">
+    <rdfs:label>bass horn</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/585">
+    <rdfs:label>keyboard</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/408">
+    <rdfs:label>yodeler</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1080">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>comb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1447">
+    <rdfs:label>disco band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1088">
+    <rdfs:label>finger-board theremin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/799">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>transverse flute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/980">
+    <rdfs:label>hand clapping</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/928">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kayagum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1083">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tape delay</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1202">
+    <rdfs:label>blul</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1066">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tin oboe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/175">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>esraj</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/215">
+    <rdfs:label>string quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1047">
+    <rdfs:label>electric mandolin</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/911">
+    <rdfs:label>harmonica</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1399">
+    <rdfs:label>soul band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1302">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Turkish drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1424">
+    <rdfs:label>mambo band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1167">
+    <rdfs:label>yanggeum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1375">
+    <rdfs:label>performing dogs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/660">
+    <rdfs:label>tap dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1064">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>chromolodeon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/117">
+    <rdfs:label>duo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/805">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>khim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1303">
+    <rdfs:label>violin 2</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1077">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>MIDI piano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/220">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>zoomoozophone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/817">
+    <rdfs:label>girls chorus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/923">
+    <rdfs:label>performing chimpanzee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/238">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>oboe da caccia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/174">
+    <rdfs:label>impressionist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/296">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>cornemuse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/750">
+    <rdfs:label>pipe major</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1427">
+    <rdfs:label>bossa nova band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/149">
+    <rdfs:label>ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1336">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>igil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1266">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baraban drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1381">
+    <rdfs:label>comedy team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1114">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>pandeiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/845">
+    <rdfs:label>balalaika</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/396">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>biwa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1322">
+    <rdfs:label>timbal</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1410">
+    <rdfs:label>salsa band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1">
+    <rdfs:label>guitar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1403">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Cretan lyra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/492">
+    <rdfs:label>tuba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/185">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>valve trombone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1116">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>electronic percussion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1397">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Jew's harp</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/306">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tanpura</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/153">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>alto shawm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/951">
+    <rdfs:label>frame drum</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/317">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bandoneon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1412">
+    <rdfs:label>reggae band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/454">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>woodwinds</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/932">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kamayacha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/957">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>piri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/541">
+    <rdfs:label>chamber orchestra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/981">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>continuo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1120">
+    <rdfs:label>guitar quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/741">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>tro u</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1228">
+    <rdfs:label>dramnyen</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/328">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>odaiko</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1346">
+    <rdfs:label>fife and drum corps</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1196">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>baglama</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1074">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>throat singer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1182">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass bara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1445">
+    <rdfs:label>belly dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/421">
+    <rdfs:label>bassoon</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1257">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>medium bass ngoni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1426">
+    <rdfs:label>samba band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1091">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Korean flute</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1418">
+    <rdfs:label>pop music band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1327">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>reed organ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/331">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sarangi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1169">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sokou</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/778">
+    <rdfs:label>zither</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/499">
+    <rdfs:label>saxophone quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1392">
+    <rdfs:label>magicians</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1267">
+    <rdfs:label>Fender Rhodes</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/114">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shofar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1263">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>batá drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1107">
+    <rdfs:label>dunun</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1159">
+    <rdfs:label>tsugaru-shamisen ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/25">
+    <rdfs:label>folk dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1108">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>guqin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1071">
+    <rdfs:label>interpreter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1190">
+    <rdfs:label>superDraw</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/661">
+    <rdfs:label>presenter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1449">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>fujara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/252">
+    <rdfs:label>jazz trio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1341">
+    <rdfs:label>duyuglar</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/91">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>contrabass trombone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1313">
+    <rdfs:label>bass marimba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1166">
+    <rdfs:label>ajaeng</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/623">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shawm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1081">
+    <rdfs:label>soprano cornet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1324">
+    <rdfs:label>piano quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/930">
+    <rdfs:label>kantele</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/959">
+    <rdfs:label>magician</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1444">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>rotta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/535">
+    <rdfs:label>novelty act</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/198">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>basset horn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/892">
+    <rdfs:label>handbell choir</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/152">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>pocket trumpet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1434">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>low whistle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1006">
+    <rdfs:label>announcer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1343">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>murgu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/986">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>lyricon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/74">
+    <rdfs:label>quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/39">
+    <rdfs:label>performing dog</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1436">
+    <rdfs:label>taiko drum ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1348">
+    <rdfs:label>jaltarang</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/605">
+    <rdfs:label>cornet</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/621">
+    <rdfs:label>orchestra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1338">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>kengirge</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/636">
+    <rdfs:label>xylorimba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/971">
+    <rdfs:label>director</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/518">
+    <rdfs:label>performing horses</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/298">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>otsuzumi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1262">
+    <rdfs:label>zapateado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1425">
+    <rdfs:label>songo band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/83">
+    <rdfs:label>flamenco singer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/320">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>contrabass saxhorn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1452">
+    <rdfs:label>saron</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1265">
+    <rdfs:label>marching band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1331">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>slide guitar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/755">
+    <rdfs:label>nabal</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1389">
+    <rdfs:label>juggling team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/261">
+    <rdfs:label>brass ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1388">
+    <rdfs:label>pipe band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/551">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>sho</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/310">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>bass drum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/35">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>shehnai</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/72">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>siku</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/312">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>marimba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1251">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>universal horn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/952">
+    <rdfs:label>roller skaters</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/360">
+    <rdfs:label>jazz quartet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/399">
+    <rdfs:label>mime</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1110">
+    <rdfs:label>calabash</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/616">
+    <rdfs:label>female impersonator</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1206">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+    <rdfs:label>Balinese percussion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/744">
+    <rdfs:label>rock band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/183">
+    <rdfs:label>jazz ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/883">
+    <rdfs:label>burlesque dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/751">
+    <rdfs:label>chanter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1288">
+    <rdfs:label>algoza</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1214">
+    <rdfs:label>Hardanger fiddle</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1446">
+    <rdfs:label>punk rock band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/991">
+    <rdfs:label>taishogoto ensemble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/258">
+    <rdfs:label>choir</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/262">
+    <rdfs:label>jazz quintet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/745">
+    <rdfs:label>string orchestra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1197">
+    <rdfs:label>boy treble</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1450">
+    <rdfs:label>roots music band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/740">
+    <rdfs:label>Irish step dancer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1319">
+    <rdfs:label>cone gong</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/763">
+    <rdfs:label>tenor Wagner tuba</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Instrument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1156">
+    <rdfs:label>video artist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/946">
+    <rdfs:label>speaker</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/254">
+    <rdfs:label>ventriloquist</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/116">
+    <rdfs:label>trio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1411">
+    <rdfs:label>blues band</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.carnegiehall.org/instruments/1075">
+    <rdfs:label>country band</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

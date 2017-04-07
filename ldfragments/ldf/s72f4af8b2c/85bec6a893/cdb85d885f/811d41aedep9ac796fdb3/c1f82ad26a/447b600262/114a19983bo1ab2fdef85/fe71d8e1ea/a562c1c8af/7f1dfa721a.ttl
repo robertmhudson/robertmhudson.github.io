@@ -1,0 +1,30 @@
+<http://data.carnegiehall.org/instruments/630> <http://www.w3.org/2000/01/rdf-schema#label> "fencer" .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://foo.org/>.
+
+:a a void:Dataset, hydra:Collection;
+    void:subset <http://robertmhudson.github.io/ldstatic/ldfs72f4af8b2c/85bec6a893/cdb85d885f/811d41aedep9ac796fdb3/c1f82ad26a/447b600262/114a19983bo1ab2fdef85/fe71d8e1ea/a562c1c8af/7f1dfa721a.ttl>;
+    void:uriLookupEndpoint "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:search _:triplePattern.
+_:triplePattern hydra:template "http://robertmhudson.github.io/ldstatic/ldfs{+s}p{+p}o{+o}.ttl";
+    hydra:mapping _:subject, _:predicate, _:object.
+_:subject hydra:variable "s";
+    hydra:property rdf:subject.
+_:predicate hydra:variable "p";
+    hydra:property rdf:predicate.
+_:object hydra:variable "o";
+    hydra:property rdf:object
+    .
+
+<http://robertmhudson.github.io/ldstatic/ldfs72f4af8b2c/85bec6a893/cdb85d885f/811d41aedep9ac796fdb3/c1f82ad26a/447b600262/114a19983bo1ab2fdef85/fe71d8e1ea/a562c1c8af/7f1dfa721a.ttl> 
+    a hydra:Collection, hydra:PagedCollection;
+    dcterms:source :a;
+    hydra:totalItems "1"^^xsd:integer;
+    void:triples "1"^^xsd:integer;
+    hydra:itemsPerPage "1"^^xsd:integer
+    .
